@@ -1,5 +1,3 @@
-# Martingale
+# Potential Strategies for Profitable MLB Betting Using a Martingale Betting System
 
 Just a side project for fun
-
-Looking at potential strategies for profitable baseball betting using a Martingale betting system
