@@ -1,0 +1,163 @@
+game,date,Tm,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,opp,sp h,sp a,result and moneyline,ou
+162,Sunday Oct 3,CHC,W,3,2,7,71-91,4,24,Biagini,Woodford,,2:11,D,46525,0,++,†@ STL,Alec Mills†(R),Jake Woodford†(R),W†146,U†8.5
+161,Saturday Oct 2,CHC,W,6,5,,70-91,4,25,Adam,Garcia,Wick,3:25,N,45239,0,+,†@ STL,Adrian Sampson†(R),Jon Lester†(L),W†167,O†9
+160,Friday Oct 1,CHC,L-wo,3,4,,69-91,4,26,Gallegos,Nance,,3:25,N,41618,0,-,†@ STL,Cory Abbott†(R),Dakota Hudson†(R),L†192,U†8
+159,Thursday Sep 30,CHC,W,9,0,,69-90,4,26,Steele,Yajure,,2:49,N,10152,0,++,†@ PIT,Justin Steele†(L),Miguel Yajure†(R),W†-107,O†8.5
+158,Wednesday Sep 29,CHC,W,3,2,,68-90,4,27,Morgan,Shreve,Heuer,3:44,N,9236,0,+,†@ PIT,Kyle Hendricks†(R),Roansy Contreras†(R),W†-125,U†8.5
+157,Tuesday Sep 28,CHC,L,6,8,,67-90,4,27,De Los Santos,Morgan,Stratton,3:04,N,9218,0,-------,†@ PIT,Alec Mills†(R),Mitch Keller†(R),L†-103,O†8.5
+156,Sunday Sep 26,CHC,L,2,4,,67-89,4,27,Cabrera,Heuer,Gallegos,3:36,D,26547,0,------,†STL,Keegan Thompson†(R),Jake Woodford†(R),L†130,U†11
+155,Saturday Sep 25,CHC,L,5,8,,67-88,4,26,Kim,Heuer,,3:18,D,32918,0,-----,†STL,Adrian Sampson†(R),Jon Lester†(L),L†129,O†10
+154,Friday Sep 24 (2),CHC,L,4,12,7,67-87,4,25,Hudson,Davies,,2:41,N,35020,0,----,†STL,Zach Davies†(R),Jack Flaherty†(R),L†160,O†9
+153,Friday Sep 24 (1),CHC,L,5,8,7,67-86,4,25,Reyes,Steele,Gallegos,2:39,D,29030,0,---,†STL,Justin Steele†(L),J.A. Happ†(L),L†122,O†9
+152,Wednesday Sep 22,CHC,L,4,5,,67-85,4,24,Ryan,Hendricks,Colome,3:02,N,24402,0,--,†MIN,Kyle Hendricks†(R),Joe Ryan†(R),L†101,O†7
+151,Tuesday Sep 21,CHC,L,5,9,,67-84,4,24,Barraclough,Mills,,4:05,N,25594,0,-,†MIN,Alec Mills†(R),Griffin Jax†(R),L†-118,O†8
+150,Sunday Sep 19,CHC,W,6,4,,67-83,4,24.5,Morgan,Boxberger,Rucker,3:46,D,34213,0,+,†@ MIL,Keegan Thompson†(R),Eric Lauer†(L),W†195,O†9
+149,Saturday Sep 18,CHC,L,4,6,,66-83,4,25.5,Williams,Effross,Hader,3:35,N,33625,0,----,†@ MIL,Justin Steele†(L),Corbin Burnes†(R),L†281,O†7.5
+148,Friday Sep 17,CHC,L,5,8,,66-82,4,24.5,Ashby,Wick,Hader,3:45,N,28483,0,---,†@ MIL,Zach Davies†(R),Adrian Houser†(R),L†197,O†9
+147,Thursday Sep 16,CHC,L,8,17,,66-81,4,23.5,Neris,Rodriguez,,3:58,N,20208,0,--,†@ PHI,Kyle Hendricks†(R),Cam Bedrosian†(R),L†138,O†9
+146,Wednesday Sep 15,CHC,L-wo,5,6,,66-80,4,23,Kennedy,Megill,,3:12,N,16299,0,-,†@ PHI,Alec Mills†(R),Ranger Suarez†(L),L†182,O†9
+145,Tuesday Sep 14,CHC,W,6,3,,66-79,4,23,Sampson,Gibson,Wick,3:24,N,16170,0,+,†@ PHI,Adrian Sampson†(R),Kyle Gibson†(R),W†173,U†9.5
+144,Sunday Sep 12,CHC,L,5,6,,65-79,4,24,Webb,Steele,McGee,3:02,D,32021,0,---,†SF,Justin Steele†(L),Logan Webb†(R),L†191,O†9
+143,Saturday Sep 11,CHC,L,4,15,,65-78,4,23,Gausman,Davies,Baragar,3:47,D,34723,0,--,†SF,Zach Davies†(R),Kevin Gausman†(R),L†190,O†10.5
+142,Friday Sep 10,CHC,L,1,6,,65-77,4,22,Doval,Megill,,3:04,D,29439,0,-,†SF,Kyle Hendricks†(R),Dominic Leone†(R),L†130,U†9.5
+141,Wednesday Sep 8,CHC,W-wo,4,1,10,65-76,4,21,Heuer,Brach,,2:49,N,25861,0,+,†CIN,Alec Mills†(R),Vladimir Gutierrez†(R),W†-102,U†9
+140,Tuesday Sep 7,CHC,L,3,4,,64-76,4,21,Miley,Sampson,Givens,2:49,N,24925,0,-,†CIN,Adrian Sampson†(R),Wade Miley†(L),L†130,U†9.5
+139,Monday Sep 6,CHC,W,4,3,,64-75,4,20,Effross,Lorenzen,Morgan,2:45,D,27289,0,+++++++,†CIN,Justin Steele†(L),Sonny Gray†(R),W†139,U†8
+138,Sunday Sep 5,CHC,W,11,8,,63-75,4,21,Alzolay,Howard,Wick,4:12,D,30155,0,++++++,†PIT,Zach Davies†(R),Wil Crowe†(R),W†-140,O†9.5
+137,Saturday Sep 4,CHC,W-wo,7,6,,62-75,4,21,Effross,Stratton,,3:42,D,30020,0,+++++,†PIT,Kyle Hendricks†(R),JT Brubaker†(R),W†-144,O†8.5
+136,Friday Sep 3,CHC,W,6,5,,61-75,4,21,Megill,Miller,Wick,3:02,D,24441,0,++++,†PIT,Alec Mills†(R),Steven Brault†(L),W†-144,O†8.5
+135,Thursday Sep 2,CHC,W-wo,6,5,11,60-75,4,22,Heuer,Howard,,3:55,N,26963,0,+++,†PIT,Keegan Thompson†(R),Mitch Keller†(R),W†-119,O†8
+134,Wednesday Sep 1,CHC,W,3,0,,59-75,4,23,Steele,Ryan,Alzolay,2:28,N,21784,0,++,†@ MIN,Justin Steele†(L),Joe Ryan†(R),W†162,U†9
+133,Tuesday Aug 31,CHC,W,3,1,,58-75,4,23,Rodriguez,Gant,Wick,3:34,N,22224,0,+,†@ MIN,Zach Davies†(R),John Gant†(R),W†139,U†9.5
+132,Sunday Aug 29,CHC,L,1,13,,57-75,4,22.5,Cease,Hendricks,,3:00,D,38565,0,-,†@ CHW,Kyle Hendricks†(R),Dylan Cease†(R),L†229,O†9
+131,Saturday Aug 28,CHC,W,7,0,,57-74,4,21.5,Mills,Lynn,,2:45,N,38668,0,+,†@ CHW,Alec Mills†(R),Lance Lynn†(R),W†271,U†9
+130,Friday Aug 27,CHC,L,13,17,,56-74,4,22.5,Lopez,Sampson,,4:09,N,37892,0,--,†@ CHW,Keegan Thompson†(R),Dallas Keuchel†(L),L†190,O†9.5
+129,Wednesday Aug 25 (2),CHC,L,10,13,10,56-73,4,23,Bowden,Jewell,,4:18,N,24936,0,-,†COL,Justin Steele†(L),German Marquez†(R),L†128,O†7
+128,Wednesday Aug 25 (1),CHC,W,5,2,7,56-72,4,23,Heuer,Gomber,Morgan,2:09,D,24161,0,++,†COL,Zach Davies†(R),Austin Gomber†(L),W†122,P†7
+127,Monday Aug 23,CHC,W-wo,6,4,,55-72,4,22,Rodriguez,Bard,,2:58,N,25577,0,+,†COL,Kyle Hendricks†(R),Antonio Senzatela†(R),W†-123,O†8.5
+126,Sunday Aug 22,CHC,L,1,9,,54-72,4,22.5,Hernandez,Mills,,3:25,D,29640,0,---,†KC,Alec Mills†(R),Carlos Hernandez†(R),L†-110,O†8
+125,Saturday Aug 21,CHC,L,2,4,,54-71,4,21.5,Bubic,Thompson,Barlow,3:02,D,34005,0,--,†KC,Keegan Thompson†(R),Kris Bubic†(L),L†-126,U†9.5
+124,Friday Aug 20,CHC,L,2,6,,54-70,4,20.5,Keller,Davies,,2:55,D,31835,0,-,†KC,Zach Davies†(R),Brad Keller†(R),L†-102,U†8.5
+123,Wednesday Aug 18,CHC,W,7,1,,54-69,4,21,Rodriguez,Mahle,,3:01,D,16922,0,++,†@ CIN,Adrian Sampson†(R),Tyler Mahle†(R),W†284,U†9.5
+122,Tuesday Aug 17,CHC,W,2,1,,53-69,4,21,Hendricks,Guti√©rrez,Heuer,2:45,N,13989,0,+,†@ CIN,Kyle Hendricks†(R),Vladimir Gutierrez†(R),W†172,U†9.5
+121,Monday Aug 16,CHC,L,5,14,,52-69,4,21,Miley,Steele,,3:37,N,15404,0,------------,†@ CIN,Justin Steele†(L),Wade Miley†(L),L†173,O†9.5
+120,Sunday Aug 15,CHC,L,1,4,,52-68,4,20.5,Campbell,Mills,Floro,3:21,D,10262,0,-----------,†@ MIA,Alec Mills†(R),Elieser Hernandez†(R),L†128,U†7
+119,Saturday Aug 14,CHC,L,4,5,,52-67,4,19.5,Floro,Heuer,Bender,3:03,N,11225,0,----------,†@ MIA,Zach Davies†(R),Zach Thompson†(R),L†150,O†8
+118,Friday Aug 13,CHC,L,10,14,,52-66,4,19,Luzardo,Alzolay,,4:14,N,11728,0.01,---------,†@ MIA,Adbert Alzolay†(R),Jesus Luzardo†(L),L†107,O†7.5
+117,Thursday Aug 12,CHC,L,4,17,,52-65,4,18.5,Strickland,Hendricks,,4:00,D,32502,0.01,--------,†MIL,Kyle Hendricks†(R),Brandon Woodruff†(R),L†186,O†8.5
+116,Wednesday Aug 11,CHC,L,0,10,,52-64,4,17.5,Burnes,Arrieta,,2:58,N,29619,0.01,-------,†MIL,Jake Arrieta†(R),Corbin Burnes†(R),L†230,P†10
+115,Tuesday Aug 10 (2),CHC,L,3,6,7,52-63,4,16.5,Sanchez,Winkler,Suter,2:55,N,28674,0.03,------,†MIL,Alec Mills†(R),Aaron Ashby†(L),L†132,O†8
+114,Tuesday Aug 10 (1),CHC,L,2,4,7,52-62,4,16.5,Peralta,Steele,Williams,2:38,D,29031,0.05,-----,†MIL,Justin Steele†(L),Freddy Peralta†(R),L†174,U†7.5
+113,Sunday Aug 8,CHC,L,3,9,,52-61,4,14.5,Cease,Davies,,3:06,N,39412,0.05,----,†CHW,Zach Davies†(R),Dylan Cease†(R),L†163,O†10
+112,Saturday Aug 7,CHC,L,0,4,,52-60,4,14.5,Rodon,Alzolay,,3:10,D,40077,0.08,---,†CHW,Adbert Alzolay†(R),Carlos Rodon†(L),L†173,U†8.5
+111,Friday Aug 6,CHC,L,6,8,10,52-59,4,14.5,Hendriks,Rodriguez,,4:27,D,39539,0.11,--,†CHW,Kyle Hendricks†(R),Lance Lynn†(R),L†185,O†8.5
+110,Thursday Aug 5,CHC,L,5,6,,52-58,4,13.5,Kinley,Jewell,Bard,3:10,D,30462,0.17,-,†@ COL,Jake Arrieta†(R),Antonio Senzatela†(R),L†142,U†11.5
+109,Wednesday Aug 4,CHC,W,3,2,,52-57,4,13,Mills,Gray,Rodriguez,3:04,N,36205,0.14,+,†@ COL,Alec Mills†(R),Jon Gray†(R),W†163,U†11
+108,Tuesday Aug 3,CHC,L,6,13,,51-57,4,13,Freeland,Davies,,3:04,N,38188,0.16,--,†@ COL,Zach Davies†(R),Kyle Freeland†(L),L†135,O†11
+107,Sunday Aug 1,CHC,L-wo,5,6,,51-56,4,12.5,Finnegan,Rodriguez,,3:20,D,25520,0.25,-,†@ WAS,Adbert Alzolay†(R),Erick Fedde†(R),L†-101,O†8.5
+106,Saturday Jul 31,CHC,W,6,3,,51-55,4,11.5,Hendricks,Ross,Ryan,3:16,N,31444,0.19,+,†@ WAS,Kyle Hendricks†(R),Joe Ross†(R),W†107,O†8
+105,Friday Jul 30,CHC,L,3,4,,50-55,4,12.5,Espino,Arrieta,Finnegan,2:47,N,33882,0.25,----,†@ WAS,Jake Arrieta†(R),Paolo Espino†(R),L†119,U†9
+104,Thursday Jul 29,CHC,L,4,7,,50-54,4,11.5,Castillo,Mills,,3:12,D,32793,0.39,---,†CIN,Alec Mills†(R),Luis Castillo†(R),L†118,O†7
+103,Wednesday Jul 28,CHC,L,2,8,,50-53,4,10.5,Mahle,Davies,,3:37,N,30134,0.48,--,†CIN,Zach Davies†(R),Tyler Mahle†(R),L†102,P†10
+102,Tuesday Jul 27,CHC,L,4,7,,50-52,4,9.5,Guti√©rrez,Alzolay,,3:12,N,28153,0.65,-,†CIN,Adbert Alzolay†(R),Vladimir Gutierrez†(R),L†-163,O†10.5
+101,Monday Jul 26,CHC,W-wo,6,5,,50-51,4,8.5,Kimbrel,Hembree,,4:00,N,29215,0.59,++,†CIN,Kyle Hendricks†(R),Wade Miley†(L),W†-136,O†8.5
+100,Sunday Jul 25,CHC,W,5,1,,49-51,4,9,Williams,Smith,Kimbrel,3:13,D,32602,0.37,+,†ARI,Trevor Williams†(R),Caleb Smith†(L),W†-188,U†9
+99,Saturday Jul 24,CHC,L,3,7,,48-51,4,10,Kelly,Chafin,,3:15,D,37190,0.53,-,†ARI,Alec Mills†(R),Merrill Kelly†(R),L†-173,U†10.5
+98,Friday Jul 23,CHC,W,8,3,,48-50,4,9,Davies,Gallen,Thompson,3:11,D,34059,0.52,+,†ARI,Zach Davies†(R),Zac Gallen†(R),W†-130,O†10
+97,Thursday Jul 22,CHC,L,2,3,,47-50,4,9,Kim,Alzolay,Reyes,2:49,N,41412,0.65,--,†@ STL,Adbert Alzolay†(R),Kwang-hyun Kim†(L),L†124,U†8
+96,Wednesday Jul 21,CHC,L-wo,2,3,10,47-49,4,8.5,McFarland,Kimbrel,,4:09,N,37008,0.71,-,†@ STL,Kyle Hendricks†(R),Adam Wainwright†(R),L†120,U†8
+95,Tuesday Jul 20,CHC,W,7,6,,47-48,3,8.5,Maples,Reyes,Kimbrel,3:43,N,35402,0.54,+,†@ STL,Trevor Williams†(R),Johan Oviedo†(R),W†101,O†9
+94,Monday Jul 19,CHC,L,3,8,,46-48,4,9.5,Woodford,Mills,,3:00,N,38199,0.62,--,†@ STL,Alec Mills†(R),Jake Woodford†(R),L†-111,O†8.5
+93,Sunday Jul 18,CHC,L,4,6,,46-47,3,9,Kelly,Winkler,Soria,3:09,D,21457,0.64,-,†@ ARI,Zach Davies†(R),Merrill Kelly†(R),L†-105,O†9
+92,Saturday Jul 17,CHC,W,4,2,,46-46,3,8,Brothers,Soria,Kimbrel,3:15,D,20180,0.59,++,†@ ARI,Adbert Alzolay†(R),Zac Gallen†(R),W†-126,U†8.5
+91,Friday Jul 16,CHC,W,5,1,,45-46,3,8,Hendricks,Bumgarner,,3:09,N,22046,0.55,+,†@ ARI,Kyle Hendricks†(R),Madison Bumgarner†(L),W†-151,U†9.5
+90,Saturday Jul 10,CHC,L,0,6,,44-46,3,8.5,Kim,Davies,,3:32,N,39368,0.66,-,†STL,Zach Davies†(R),Kwang-hyun Kim†(L),L†-111,U†8
+89,Friday Jul 9,CHC,W,10,5,,44-45,3,8.5,Hendricks,LeBlanc,,3:57,D,36192,0.56,+,†STL,Kyle Hendricks†(R),Wade LeBlanc†(L),W†-147,O†7.5
+88,Thursday Jul 8,CHC,L,0,8,,43-45,3,9.5,Eflin,Alzolay,,3:15,N,30727,0.62,-,†PHI,Adbert Alzolay†(R),Zach Eflin†(R),L†-105,O†7
+87,Wednesday Jul 7,CHC,W,8,3,,43-44,3,8.5,Mills,Wheeler,,2:54,N,28860,0.58,+,†PHI,Alec Mills†(R),Zack Wheeler†(R),W†127,O†7
+86,Tuesday Jul 6,CHC,L,10,15,,42-44,4,9,Nola,Arrieta,,3:45,N,30095,0.67,-----------,†PHI,Jake Arrieta†(R),Aaron Nola†(R),L†126,O†10
+85,Monday Jul 5,CHC,L,3,13,,42-43,3,8.5,Brogdon,Brothers,,3:33,N,37165,0.71,----------,†PHI,Zach Davies†(R),Matt Moore†(L),L†-152,O†11
+84,Sunday Jul 4,CHC,L,2,3,,42-42,3,8.5,Warren,Winkler,Garrett,2:59,D,29340,0.89,---------,†@ CIN,Kyle Hendricks†(R),Wade Miley†(L),L†105,U†9.5
+83,Saturday Jul 3,CHC,L,2,3,,42-41,3,8.5,Hendrix,Alzolay,Hembree,2:58,D,36815,1.04,--------,†@ CIN,Adbert Alzolay†(R),Tyler Mahle†(R),L†115,U†9.5
+82,Friday Jul 2,CHC,L,1,2,,42-40,2,7.5,Osich,Mills,Hembree,3:12,N,40854,1.18,-------,†@ CIN,Alec Mills†(R),Sonny Gray†(R),L†130,U†10
+81,Wednesday Jun 30,CHC,L,7,15,,42-39,2,6,Richards,Brothers,,3:47,D,32193,1.7,------,†@ MIL,Jake Arrieta†(R),Aaron Ashby†(L),L†138,O†9
+80,Tuesday Jun 29,CHC,L,1,2,,42-38,2,5,Woodruff,Davies,Hader,3:40,N,24423,1.78,-----,†@ MIL,Zach Davies†(R),Brandon Woodruff†(R),L†215,U†7.5
+79,Monday Jun 28,CHC,L,4,14,,42-37,2,4,Williams,Tepera,,3:43,N,30251,1.91,----,†@ MIL,Kyle Hendricks†(R),Freddy Peralta†(R),L†134,O†7
+78,Sunday Jun 27,CHC,L,1,7,,42-36,2,3,Kershaw,Alzolay,,2:42,D,46315,1.5,---,†@ LAD,Adbert Alzolay†(R),Clayton Kershaw†(L),L†178,P†8
+77,Saturday Jun 26,CHC,L-wo,2,3,,42-35,2,2,Price,Thompson,,3:12,D,45420,1.57,--,†@ LAD,Alec Mills†(R),Julio Urias†(L),L†180,U†9
+76,Friday Jun 25,CHC,L,2,6,,42-34,2,1,Treinen,Tepera,,3:42,N,49387,1.56,-,†@ LAD,Jake Arrieta†(R),Tony Gonsolin†(R),L†158,U†9.5
+75,Thursday Jun 24,CHC,W,4,0,,42-33,1,Tied,Davies,Buehler,,3:12,N,52175,1.54,++,†@ LAD,Zach Davies†(R),Walker Buehler†(R),W†226,U†8
+74,Tuesday Jun 22,CHC,W,7,1,,41-33,1,Tied,Hendricks,Morgan,,2:51,N,35493,1.4,+,†CLE,Kyle Hendricks†(R),Eli Morgan†(R),W†-192,U†8.5
+73,Monday Jun 21,CHC,L,0,4,,40-33,1,Tied,Shaw,Alzolay,,3:12,N,32934,1.45,-,†CLE,Adbert Alzolay†(R),Aaron Civale†(R),L†-140,U†7
+72,Sunday Jun 20,CHC,W,2,0,,40-32,1,Tied,Mills,Thompson,Kimbrel,2:52,D,37158,1.41,+,†MIA,Alec Mills†(R),Zach Thompson†(R),W†-146,U†9
+71,Saturday Jun 19,CHC,L,1,11,,39-32,1,Tied,Lopez,Arrieta,,3:07,D,35846,1.46,--,†MIA,Jake Arrieta†(R),Pablo Lopez†(R),L†-128,O†9
+70,Friday Jun 18,CHC,L,2,10,,39-31,1,up 1.0,Curtiss,Davies,,3:21,N,32505,1.38,-,†MIA,Zach Davies†(R),Cody Poteet†(R),L†-160,O†9
+69,Thursday Jun 17,CHC,W,2,0,,39-30,1,up 1.0,Hendricks,Stroman,Kimbrel,2:48,N,16826,1.45,+,†@ NYM,Kyle Hendricks†(R),Marcus Stroman†(R),W†105,U†7.5
+68,Wednesday Jun 16,CHC,L,3,6,,38-30,1,Tied,Reid-Foley,Stock,Diaz,3:01,N,23545,1.4,---,†@ NYM,Robert Stock†(R),Jacob deGrom†(R),L†259,O†6.5
+67,Tuesday Jun 15,CHC,L,2,3,,38-29,1,Tied,Walker,Mills,Lugo,3:05,N,17804,1.47,--,†@ NYM,Alec Mills†(R),Taijuan Walker†(R),L†123,U†8.5
+66,Monday Jun 14,CHC,L,2,5,,38-28,1,Tied,Peterson,Arrieta,Diaz,3:10,N,16383,1.42,-,†@ NYM,Jake Arrieta†(R),David Peterson†(L),L†118,U†8.5
+65,Sunday Jun 13,CHC,W,2,0,,38-27,1,Tied,Davies,Martinez,Kimbrel,2:34,N,35225,1.59,+++++,†STL,Zach Davies†(R),Carlos Martinez†(R),W†-123,U†10
+64,Saturday Jun 12,CHC,W,7,2,,37-27,1,Tied,Hendricks,Gant,Kimbrel,3:19,N,39095,1.64,++++,†STL,Kyle Hendricks†(R),John Gant†(R),W†-173,O†8.5
+63,Friday Jun 11,CHC,W,8,5,,36-27,1,Tied,Nance,Cabrera,Kimbrel,3:04,D,35112,1.61,+++,†STL,Kohl Stewart†(R),Johan Oviedo†(R),W†-143,O†9.5
+62,Wednesday Jun 9,CHC,W,3,1,,35-27,1,up 0.5,Brothers,Darvish,Kimbrel,2:58,D,16482,1.45,++,†@ SD,Jake Arrieta†(R),Yu Darvish†(R),W†233,U†8
+61,Tuesday Jun 8,CHC,W,7,1,,34-27,2,0.5,Davies,Lamet,,2:51,N,16207,1.39,+,†@ SD,Zach Davies†(R),Dinelson Lamet†(R),W†170,U†8.5
+60,Monday Jun 7,CHC,L,4,9,,33-27,2,0.5,Weathers,Alzolay,,3:42,N,16045,1.45,-,†@ SD,Adbert Alzolay†(R),Ryan Weathers†(L),L†104,O†8
+59,Sunday Jun 6,CHC,W,4,3,,33-26,1,Tied,Hendricks,Cueto,Kimbrel,3:01,D,14089,1.34,+,†@ SF,Kyle Hendricks†(R),Johnny Cueto†(R),W†-106,U†8
+58,Saturday Jun 5,CHC,L,3,4,,32-26,1,Tied,Gausman,Stewart,Rogers,3:04,D,12792,1.41,---,†@ SF,Kohl Stewart†(R),Kevin Gausman†(R),L†144,U†7.5
+57,Friday Jun 4,CHC,L,5,8,,32-25,1,up 1.0,Menez,Arrieta,Rogers,3:14,N,11524,1.48,--,†@ SF,Jake Arrieta†(R),Scott Kazmir†(L),L†-106,O†8.5
+56,Thursday Jun 3,CHC,L,2,7,,32-24,1,up 1.5,DeSclafani,Davies,,3:05,N,10737,1.43,-,†@ SF,Zach Davies†(R),Anthony DeSclafani†(R),L†108,O†8
+55,Wednesday Jun 2,CHC,W,6,1,,32-23,1,up 1.5,Alzolay,Johnson,,3:16,D,22056,1.38,+++,†SD,Adbert Alzolay†(R),Dinelson Lamet†(R),W†-115,P†7
+54,Tuesday Jun 1,CHC,W,4,3,,31-23,1,up 0.5,Hendricks,Weathers,Kimbrel,2:52,N,24824,1.39,++,†SD,Kyle Hendricks†(R),Ryan Weathers†(L),W†-120,U†8.5
+53,Monday May 31,CHC,W,7,2,,30-23,1,up 0.5,Stewart,Paddack,,2:53,D,24824,1.35,+,†SD,Kohl Stewart†(R),Chris Paddack†(R),W†125,U†10
+52,Sunday May 30,CHC,L,1,5,,29-23,2,0.5,Mahle,Arrieta,Antone,3:27,D,24824,1.39,-,†CIN,Jake Arrieta†(R),Tyler Mahle†(R),L†-111,U†8
+51,Saturday May 29,CHC,W,10,2,,29-22,2,0.5,Thompson,Castillo,,3:13,D,24275,1.41,++++++,†CIN,Zach Davies†(R),Luis Castillo†(R),W†-110,O†7
+50,Friday May 28,CHC,W,1,0,,28-22,2,0.5,Alzolay,Guti√©rrez,Kimbrel,2:57,D,18478,1.47,+++++,†CIN,Adbert Alzolay†(R),Vladimir Gutierrez†(R),W†-195,U†6.5
+49,Thursday May 27,CHC,W,5,3,,27-22,2,0.5,Hendricks,Anderson,Tepera,3:01,D,7202,1.32,++++,†@ PIT,Kyle Hendricks†(R),Tyler Anderson†(L),W†-140,O†7.5
+48,Wednesday May 26,CHC,W,4,1,,26-22,2,0.5,Williams,Crowe,Kimbrel,2:54,N,5660,1.32,+++,†@ PIT,Trevor Williams†(R),Wil Crowe†(R),W†-127,U†8.5
+47,Tuesday May 25,CHC,W,4,3,,25-22,2,0.5,Arrieta,Ponce,Kimbrel,2:59,N,6750,1.23,++,†@ PIT,Jake Arrieta†(R),Cody Ponce†(R),W†-131,U†9
+46,Sunday May 23,CHC,W,2,1,10,24-22,2,2,Kimbrel,Reyes,,3:38,N,24082,1.36,+,†@ STL,Zach Davies†(R),Adam Wainwright†(R),W†120,U†9
+45,Saturday May 22,CHC,L,1,2,,23-22,2,3,Cabrera,Alzolay,Reyes,2:47,N,26027,1.45,-,†@ STL,Adbert Alzolay†(R),Miles Mikolas†(R),L†-118,U†8.5
+44,Friday May 21,CHC,W,12,3,,23-21,2,2,Hendricks,Helsley,,3:17,N,24282,1.34,++,†@ STL,Kyle Hendricks†(R),Carlos Martinez†(R),W†-117,O†8.5
+43,Thursday May 20,CHC,W,5,2,,22-21,2,3,Steele,Ross,Kimbrel,3:07,D,11143,1.02,+,†WAS,Trevor Williams†(R),Joe Ross†(R),W†-108,U†10.5
+42,Wednesday May 19,CHC,L,3,4,,21-21,2,3.5,Scherzer,Arrieta,Hand,3:48,N,11145,1.05,-,†WAS,Jake Arrieta†(R),Max Scherzer†(R),L†143,U†8.5
+41,Tuesday May 18,CHC,W,6,3,,21-20,2,2.5,Thompson,Harris,Kimbrel,3:22,N,11142,1.01,+++,†WAS,Zach Davies†(R),Patrick Corbin†(L),W†-105,P†9
+40,Monday May 17,CHC,W,7,3,,20-20,3,2.5,Alzolay,Lester,,2:53,N,11144,0.98,++,†WAS,Adbert Alzolay†(R),Jon Lester†(L),W†-155,O†8
+39,Sunday May 16,CHC,W,5,1,,19-20,4,3,Hendricks,Boyd,,2:52,D,8000,0.89,+,†@ DET,Kyle Hendricks†(R),Matthew Boyd†(L),W†-145,U†8
+38,Saturday May 15,CHC,L-wo,8,9,10,18-20,4,4,Fulmer,Kimbrel,,4:06,D,8000,0.97,-,†@ DET,Trevor Williams†(R),Jose Urena†(R),L†-151,O†9
+37,Friday May 14,CHC,W,4,2,,18-19,3,4,Arrieta,Skubal,Kimbrel,2:31,N,8000,0.85,+,†@ DET,Jake Arrieta†(R),Tarik Skubal†(L),W†-143,U†9
+36,Wednesday May 12,CHC,L-wo,1,2,10,17-19,4,4.5,Karinchak,Thompson,,3:50,D,8589,0.88,---,†@ CLE,Zach Davies†(R),Sam Hentges†(L),L†121,U†8.5
+35,Tuesday May 11,CHC,L,2,3,,17-18,3,4.5,Bieber,Alzolay,Clase,2:56,N,8024,0.98,--,†@ CLE,Adbert Alzolay†(R),Shane Bieber†(R),L†163,U†7
+34,Sunday May 9,CHC,L,5,6,,17-17,3,3.5,Anderson,Hendricks,Rodriguez,3:03,D,10343,1.09,-,†PIT,Kyle Hendricks†(R),Tyler Anderson†(L),L†-164,O†6
+33,Saturday May 8,CHC,W,3,2,,17-16,3,2.5,Thompson,Howard,Kimbrel,3:13,D,10343,1.06,+++++,†PIT,Trevor Williams†(R),Wil Crowe†(R),W†-191,U†8
+32,Friday May 7,CHC,W,3,2,,16-16,3,2.5,Davies,Cahill,Brothers,3:07,D,10343,1.02,++++,†PIT,Zach Davies†(R),Trevor Cahill†(R),W†-145,U†7.5
+31,Wednesday May 5,CHC,W-wo,6,5,11,15-16,3,3,Mills,Cleavinger,,4:23,N,10343,0.89,+++,†LAD,Adbert Alzolay†(R),Walker Buehler†(R),W†150,O†7.5
+30,Tuesday May 4 (2),CHC,W-wo,4,3,9,14-16,3,3.5,Steele,Cleavinger,,3:46,N,10343,0.79,++,†LAD,Keegan Thompson†(R),Trevor Bauer†(R),W†201,O†6
+29,Tuesday May 4 (1),CHC,W,7,1,7,13-16,3,3.5,Hendricks,Kershaw,,2:17,D,10295,0.72,+,†LAD,Kyle Hendricks†(R),Clayton Kershaw†(L),W†148,O†5.5
+28,Sunday May 2,CHC,L-wo,12,13,10,16-Dec,5,5,Hendrix,Kimbrel,,3:57,D,16755,0.86,-,†@ CIN,Trevor Williams†(R),Tyler Mahle†(R),L†148,O†8.5
+27,Saturday May 1,CHC,W,3,2,,15-Dec,5,5,Brothers,Castillo,Kimbrel,3:17,D,17077,0.83,+,†@ CIN,Zach Davies†(R),Luis Castillo†(R),W†137,U†9
+26,Friday Apr 30,CHC,L,6,8,,15-Nov,5,5,Miley,Arrieta,Antone,3:21,N,16090,0.86,-,†@ CIN,Jake Arrieta†(R),Wade Miley†(L),L†109,O†9
+25,Thursday Apr 29,CHC,W,9,3,,14-Nov,5,4,Alzolay,Wilson,,3:15,N,19661,0.75,+,†@ ATL,Adbert Alzolay†(R),Bryse Wilson†(R),W†120,O†9
+24,Wednesday Apr 28,CHC,L,0,10,,14-Oct,5,4,Ynoa,Hendricks,,2:56,N,18709,0.8,-----,†@ ATL,Kyle Hendricks†(R),Huascar Ynoa†(R),L†123,O†8.5
+23,Tuesday Apr 27,CHC,L,0,5,,13-Oct,5,4,Anderson,Williams,,2:46,N,17603,0.85,----,†@ ATL,Trevor Williams†(R),Ian Anderson†(R),L†144,U†8.5
+22,Monday Apr 26,CHC,L,7,8,,12-Oct,4,3,Morton,Workman,Smith,3:29,N,17956,0.85,---,†@ ATL,Zach Davies†(R),Charlie Morton†(R),L†177,O†8.5
+21,Sunday Apr 25,CHC,L,0,6,,11-Oct,4,3,Woodruff,Arrieta,,3:23,D,10343,1.08,--,†MIL,Jake Arrieta†(R),Brandon Woodruff†(R),L†121,U†6.5
+20,Saturday Apr 24,CHC,L,3,4,,10-Oct,2,2,Suter,Chafin,Hader,3:32,D,10343,1.17,-,†MIL,Adbert Alzolay†(R),Freddy Peralta†(R),L†-105,U†7.5
+19,Friday Apr 23,CHC,W,15,2,,9-Oct,2,1,Hendricks,Anderson,,3:06,D,10343,1.11,++++,†MIL,Kyle Hendricks†(R),Brett Anderson†(L),W†-153,O†9
+18,Thursday Apr 22,CHC,W-wo,4,3,10,9-Sep,2,2,Winkler,Diaz,,3:41,N,10343,0.89,+++,†NYM,Trevor Williams†(R),Joey Lucchesi†(L),W†-109,U†9.5
+17,Wednesday Apr 21,CHC,W,16,4,,9-Aug,3,2.5,Mills,Peterson,,3:27,N,10196,0.88,++,†NYM,Zach Davies†(R),David Peterson†(L),W†119,O†7.5
+16,Tuesday Apr 20,CHC,W,3,1,,9-Jul,4,2.5,Arrieta,Walker,Kimbrel,3:32,N,10137,0.78,+,†NYM,Jake Arrieta†(R),Taijuan Walker†(R),W†111,U†7.5
+15,Sunday Apr 18,CHC,L,4,13,,9-Jun,5,3,Wilson,Hendricks,,3:26,N,10343,0.89,-,†ATL,Kyle Hendricks†(R),Bryse Wilson†(R),L†-141,O†9
+14,Saturday Apr 17,CHC,W,13,4,,8-Jun,4,3,Williams,Ynoa,,3:23,D,10343,0.8,+,†ATL,Trevor Williams†(R),Huascar Ynoa†(R),W†101,O†7.5
+13,Friday Apr 16,CHC,L,2,5,,8-May,5,3,Tomlin,Davies,Smith,4:02,D,10343,0.84,--,†ATL,Zach Davies†(R),Kyle Wright†(R),L†-112,U†8
+12,Wednesday Apr 14,CHC,L,0,7,,7-May,4,2,Burnes,Arrieta,,3:06,D,10598,1.03,-,†@ MIL,Jake Arrieta†(R),Corbin Burnes†(R),L†159,P†7
+11,Tuesday Apr 13,CHC,W,3,2,,6-May,4,2,Strop,Suter,Kimbrel,3:07,N,11025,0.98,+,†@ MIL,Alec Mills†(R),Brandon Woodruff†(R),W†131,U†7.5
+10,Monday Apr 12,CHC,L,3,6,,6-Apr,4,3,Peralta,Alzolay,Hader,3:04,N,11209,0.99,---,†@ MIL,Adbert Alzolay†(R),Freddy Peralta†(R),L†118,O†8.5
+9,Sunday Apr 11,CHC,L,1,7,,5-Apr,4,2,Brubaker,Williams,,3:02,D,6851,1.01,--,†@ PIT,Trevor Williams†(R),JT Brubaker†(R),L†-134,P†8
+8,Saturday Apr 10,CHC,L,2,8,,4-Apr,3,2,Keller,Davies,,3:07,N,7052,1.03,-,†@ PIT,Zach Davies†(R),Mitch Keller†(R),L†-158,O†8.5
+7,Thursday Apr 8,CHC,W,4,2,,3-Apr,3,1.5,Arrieta,Anderson,Kimbrel,3:15,D,7749,1.01,+,†@ PIT,Jake Arrieta†(R),Tyler Anderson†(L),W†-149,U†8.5
+6,Wednesday Apr 7,CHC,L,2,4,10,3-Mar,3,2,Hader,Workman,Boxberger,3:32,D,10343,1.1,--,†MIL,Kyle Hendricks†(R),Brandon Woodruff†(R),L†-103,U†8.5
+5,Tuesday Apr 6,CHC,L,0,4,,2-Mar,2,1,Peralta,Alzolay,,3:06,N,10343,1.09,-,†MIL,Adbert Alzolay†(R),Freddy Peralta†(R),L†-111,U†9.5
+4,Monday Apr 5,CHC,W,5,3,,1-Mar,1,Tied,Williams,Anderson,Mills,2:49,N,10343,1.1,+++,†MIL,Trevor Williams†(R),Brett Anderson†(L),W†-113,U†9.5
+3,Sunday Apr 4,CHC,W,4,3,,1-Feb,1,Tied,Davies,Keller,Kimbrel,3:09,D,10343,1.1,++,†PIT,Zach Davies†(R),Mitch Keller†(R),W†-186,U†8.5
+2,Saturday Apr 3,CHC,W,5,1,,1-Jan,1,Tied,Arrieta,Anderson,,3:08,D,10343,1.01,+,†PIT,Jake Arrieta†(R),Tyler Anderson†(L),W†-165,U†11
+1,Thursday Apr 1,CHC,L,3,5,,0-1,4,1,Howard,Hendricks,Rodriguez,4:00,D,10343,1.02,-,†PIT,Kyle Hendricks†(R),Chad Kuhl†(R),L†-206,O†6.5
