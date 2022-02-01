@@ -1,0 +1,163 @@
+game,date,Tm,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,opp,sp h,sp a,result and moneyline,ou
+162,Sunday Sep 29,TEX,W,6,1,,78-84,3,29,Lynn,Tanaka,,2:47,D,47144,0,++, NYY,Lance Lynn (R),Chad Green (R),W 135,U 10.5
+161,Saturday Sep 28,TEX,W,9,4,,77-84,3,29,Hernandez,Severino,,3:17,N,42870,0,+, NYY,Luke Farrell (R),Luis Severino (R),W 240,O 11
+160,Friday Sep 27,TEX,L,7,14,,76-84,3,29,Tarpley,Palumbo,,3:37,N,35168,0,-, NYY,Joe Palumbo (L),James Paxton (L),L 243,O 10.5
+159,Thursday Sep 26,TEX,W,7,5,,76-83,3,28,Minor,Weber,Leclerc,3:02,D,24612,0,+, BOS,Mike Minor (L),Travis Lakins Sr. (R),W -127,O 10.5
+158,Wednesday Sep 25,TEX,L,3,10,,75-83,3,29,Porcello,Allard,,3:18,N,29290,0,--, BOS,Kolby Allard (L),Rick Porcello (R),L 116,O 11.5
+157,Tuesday Sep 24,TEX,L,10,12,,75-82,3,28,Rodriguez,Jurado,Workman,3:59,N,23341,0,-, BOS,Edinson Volquez (R),Eduardo Rodriguez (L),L 201,O 10.5
+156,Sunday Sep 22,TEX,W,8,3,,75-81,3,27,Lynn,Roark,,3:15,D,38453,0,+, @ OAK,Lance Lynn (R),Tanner Roark (R),W 166,O 8
+155,Saturday Sep 21,TEX,L,3,12,,74-81,3,27,Manaea,Burke,,3:17,N,29896,0,-------, @ OAK,Brock Burke (L),Sean Manaea (L),L 290,O 9
+154,Friday Sep 20,TEX,L,0,8,,74-80,3,27,Fiers,Minor,,2:38,N,29579,0,------, @ OAK,Mike Minor (L),Mike Fiers (R),L 168,U 8.5
+153,Wednesday Sep 18,TEX,L,2,3,,74-79,3,26,Cole,Allard,Osuna,2:35,N,38417,0,-----, @ HOU,Kolby Allard (L),Gerrit Cole (R),L 399,U 8.5
+152,Tuesday Sep 17,TEX,L,1,4,,74-78,3,25,Verlander,Lynn,Osuna,2:45,N,39650,0,----, @ HOU,Lance Lynn (R),Justin Verlander (R),L 294,U 8
+151,Sunday Sep 15,TEX,L,1,6,,74-77,3,24,Manaea,Hernandez,Luzardo,3:10,D,26064,0,---, OAK,Jonathan Hernandez (R),Sean Manaea (L),L 189,U 11.5
+150,Saturday Sep 14,TEX,L,6,8,,74-76,3,23,Buchter,Minor,Hendriks,3:47,N,31928,0,--, OAK,Mike Minor (L),Mike Fiers (R),L 111,O 10.5
+149,Friday Sep 13,TEX,L,9,14,,74-75,3,22,Wendelken,Gibaut,,3:28,N,27813,0,-, OAK,Brock Burke (L),Chris Bassitt (R),L 161,O 11
+148,Thursday Sep 12,TEX,W,6,4,,74-74,3,21,Farrell,McKay,Leclerc,3:16,N,18222,0,++, TB,Kolby Allard (L),Brendan McKay (L),W 144,U 10.5
+147,Wednesday Sep 11,TEX,W,10,9,,73-74,3,22,Gibaut,Poche,Leclerc,4:09,N,19746,0,+, TB,Ariel Jurado (R),Andrew Kittredge (R),W 141,O 11
+146,Tuesday Sep 10,TEX,L,3,5,11,72-74,3,23,Pagan,Clase,Fairbanks,3:45,N,18467,0,-, TB,Lance Lynn (R),Ryan Yarbrough (L),L 125,U 9
+145,Sunday Sep 8,TEX,W,10,4,,72-73,3,22.5,Minor,Wojciechowski,,3:20,D,16142,0,++++, @ BAL,Mike Minor (L),Asher Wojciechowski (R),W -132,O 9.5
+144,Saturday Sep 7,TEX,W,9,4,,71-73,3,22.5,Mendez,Brooks,,3:11,N,11796,0,+++, @ BAL,Jonathan Hernandez (R),Aaron Brooks (R),W -101,O 9.5
+143,Friday Sep 6,TEX,W,7,6,,70-73,3,22.5,Martin,Fry,Leclerc,3:03,N,10596,0,++, @ BAL,Brock Burke (L),Dylan Bundy (R),W 123,O 9
+142,Thursday Sep 5,TEX,W,3,1,,69-73,3,22.5,Allard,Means,Leclerc,2:35,N,8209,0,+, @ BAL,Kolby Allard (L),John Means (L),W 116,U 9.5
+141,Wednesday Sep 4,TEX,L,1,4,,68-73,3,22.5,Cessa,Lynn,,3:05,N,36082,0,--, @ NYY,Lance Lynn (R),Chad Green (R),L 140,U 9.5
+140,Tuesday Sep 3,TEX,L,1,10,,68-72,3,22,Paxton,Volquez,,2:36,N,33711,0,-, @ NYY,Edinson Volquez (R),James Paxton (L),L 289,O 9.5
+139,Monday Sep 2,TEX,W,7,0,,68-71,3,22,Minor,Tanaka,,3:04,D,40015,0,+, @ NYY,Mike Minor (L),Masahiro Tanaka (R),W 198,U 9.5
+138,Sunday Sep 1,TEX,L,3,11,,67-71,3,22,Kikuchi,Martin,,3:39,D,22116,0,-, SEA,Brett Martin (L),Yusei Kikuchi (L),L -126,O 10
+137,Saturday Aug 31,TEX,W-wo,3,2,,67-70,3,21,Clase,Magill,,2:49,N,33668,0,++, SEA,Brock Burke (L),Tommy Milone (L),W -126,U 10.5
+136,Friday Aug 30,TEX,W,6,3,,66-70,3,22,Allard,Gonzales,Clase,2:45,N,23563,0,+, SEA,Kolby Allard (L),Marco Gonzales (L),W -108,U 10.5
+135,Thursday Aug 29,TEX,L,3,5,,65-70,3,22,Magill,Leclerc,,3:09,N,16591,0,-, SEA,Lance Lynn (R),Felix Hernandez (R),L -184,U 10.5
+134,Wednesday Aug 28,TEX,W,3,0,,65-69,3,22,Jurado,Del Pozo,Leclerc,2:55,N,37535,0,+, @ LAA,Emmanuel Clase (R),Patrick Sandoval (L),W 149,U 9.5
+133,Tuesday Aug 27,TEX,L,2,5,,64-69,3,22,Del Pozo,Minor,Robles,2:48,N,39008,0,--, @ LAA,Mike Minor (L),Andrew Heaney (L),L 147,U 8
+132,Sunday Aug 25,TEX,L,0,2,,64-68,3,21,Lopez,Burke,Colome,2:57,D,25553,0,-, @ CHW,Brock Burke (L),Reynaldo Lopez (R),L 116,U 9.5
+131,Saturday Aug 24,TEX,W,4,0,,64-67,3,20,Allard,Nova,,3:06,N,26454,0,+, @ CHW,Kolby Allard (L),Ivan Nova (R),W 120,U 9.5
+130,Friday Aug 23,TEX,L,3,8,,63-67,3,20,Cease,Lynn,,2:50,N,27016,0.01,--, @ CHW,Lance Lynn (R),Dylan Cease (R),L -138,O 8.5
+129,Thursday Aug 22,TEX,L,1,6,,63-66,3,19,Detwiler,Jurado,,2:29,N,18563,0.01,-, @ CHW,Ariel Jurado (R),Ross Detwiler (L),L -109,U 10.5
+128,Wednesday Aug 21,TEX,W-wo,8,7,,63-65,3,18,Hernandez,Cahill,,3:46,N,19565,0.01,++, LAA,Mike Minor (L),Patrick Sandoval (L),W -119,O 10.5
+127,Tuesday Aug 20 (2),TEX,W-wo,3,2,11,62-65,3,19,Clase,Buttrey,,3:36,N,15638,0.01,+, LAA,Brock Burke (L),Jaime Barria (R),W 118,U 12
+126,Tuesday Aug 20 (1),TEX,L,1,5,,61-65,3,19,Heaney,Palumbo,,2:48,D,17429,0.01,-, LAA,Joe Palumbo (L),Andrew Heaney (L),L 129,U 11
+125,Monday Aug 19,TEX,W-wo,8,7,11,61-64,3,18.5,Montero,Ramirez,,4:35,N,17326,0.01,+, LAA,Kolby Allard (L),Dillon Peters (L),W 109,O 12
+124,Sunday Aug 18,TEX,L,3,6,,60-64,4,18.5,Dyson,Clase,Rogers,3:49,D,18500,0.01,----, MIN,Lance Lynn (R),Martin Perez (L),L -134,U 10.5
+123,Saturday Aug 17,TEX,L,7,12,,60-63,3,17.5,Duffey,Jurado,,3:30,N,30136,0.03,---, MIN,Ariel Jurado (R),Jose Berrios (R),L 156,O 11.5
+122,Friday Aug 16,TEX,L,3,4,,60-62,3,17.5,Duffey,Minor,Romo,3:12,N,24742,0.04,--, MIN,Mike Minor (L),Jake Odorizzi (R),L -106,U 10
+121,Thursday Aug 15,TEX,L,6,13,,60-61,3,17.5,Pineda,Payano,Smeltzer,3:18,N,20494,0.07,-, MIN,Pedro Payano (R),Michael Pineda (R),L 146,O 12
+120,Wednesday Aug 14,TEX,W,7,3,,60-60,3,17.5,Allard,Reid-Foley,,3:22,D,34666,0.04,+, @ TOR,Kolby Allard (L),Sean Reid-Foley (R),W 130,P 10
+119,Tuesday Aug 13,TEX,L,0,3,,59-60,3,18.5,Pannone,Lynn,Giles,2:48,N,22958,0.07,--, @ TOR,Lance Lynn (R),Wilmer Font (R),L -136,U 9.5
+118,Monday Aug 12,TEX,L,4,19,,59-59,3,18,Stewart,Jurado,,3:02,N,16492,0.11,-, @ TOR,Ariel Jurado (R),Neil Ramirez (R),L 108,O 10.5
+117,Sunday Aug 11,TEX,W,1,0,,59-58,3,17.5,Minor,Lyles,Leclerc,2:28,D,44411,0.09,+, @ MIL,Mike Minor (L),Jordan Lyles (R),W 119,U 9
+116,Saturday Aug 10,TEX,L,2,3,,58-58,3,18.5,Houser,Payano,Albers,3:09,N,41903,0.12,----, @ MIL,Pedro Payano (R),Adrian Houser (R),L 179,U 10
+115,Friday Aug 9,TEX,L-wo,5,6,,58-57,3,17.5,Hader,Clase,,4:01,N,35294,0.18,---, @ MIL,Kolby Allard (L),Gio Gonzalez (L),L 188,O 9.5
+114,Wednesday Aug 7 (2),TEX,L,1,5,,58-56,3,16.5,Cole,Lynn,Wittgren,2:55,D,24888,0.27,--, @ CLE,Lance Lynn (R),Tyler Clippard (R),L -105,U 9.5
+113,Wednesday Aug 7 (1),TEX,L,0,2,,58-55,3,16.5,Goody,Jurado,Hand,2:32,D,,0.35,-, @ CLE,Ariel Jurado (R),Zach Plesac (R),L 172,U 10
+112,Monday Aug 5,TEX,W,1,0,,58-54,3,14.5,Minor,Civale,Leclerc,2:49,N,17690,0.26,+++++, @ CLE,Mike Minor (L),Aaron Civale (R),W 145,U 9.5
+111,Sunday Aug 4,TEX,W,9,4,,57-54,3,15,Montero,Cisnero,,3:27,D,18531,0.22,++++, DET,Pedro Payano (R),Jordan Zimmermann (R),W -189,O 10.5
+110,Saturday Aug 3,TEX,W-wo,5,4,10,56-54,3,15,Leclerc,Ramirez,,3:35,N,30292,0.2,+++, DET,Adrian Sampson (R),Matthew Boyd (L),W -103,P 9
+109,Friday Aug 2,TEX,W,5,4,,55-54,3,15,Lynn,Alexander,Leclerc,2:52,N,26884,0.17,++, DET,Lance Lynn (R),Tyler Alexander (L),W -236,U 9.5
+108,Wednesday Jul 31,TEX,W,9,7,,54-54,4,14.5,Minor,LeBlanc,Chavez,3:26,N,22539,0.16,+, SEA,Mike Minor (L),Wade LeBlanc (L),W -165,O 10.5
+107,Tuesday Jul 30,TEX,L,5,8,,53-54,4,15.5,Tuivailala,Martin,Elias,3:16,N,20599,0.21,---, SEA,Ariel Jurado (R),Mike Leake (R),L -120,O 11.5
+106,Sunday Jul 28,TEX,L-wo,5,6,,53-53,4,14.5,Treinen,Leclerc,,3:38,D,18906,0.33,--, @ OAK,Pedro Payano (R),Mike Fiers (R),L 181,O 10
+105,Saturday Jul 27,TEX,L,4,5,,53-52,4,13.5,Bailey,Sampson,Hendriks,2:51,N,36468,0.44,-, @ OAK,Adrian Sampson (R),Homer Bailey (R),L 169,U 9.5
+104,Friday Jul 26,TEX,W,5,2,,53-51,4,12.5,Lynn,Mengden,Martin,3:24,N,14952,0.37,++, @ OAK,Lance Lynn (R),Daniel Mengden (R),W 105,U 8.5
+103,Thursday Jul 25,TEX,W,11,3,,52-51,4,13.5,Jurado,Anderson,,2:45,N,11854,0.31,+, @ OAK,Ariel Jurado (R),Brett Anderson (L),W 171,O 9
+102,Wednesday Jul 24,TEX,L,3,5,,51-51,4,14,Leake,Minor,Elias,2:25,D,28145,0.3,-, @ SEA,Mike Minor (L),Mike Leake (R),L -142,U 8.5
+101,Tuesday Jul 23,TEX,W,7,2,,51-50,4,13,Payano,Milone,,2:39,N,15536,0.26,+, @ SEA,Brett Martin (L),Tommy Milone (L),W 118,U 10
+100,Monday Jul 22,TEX,L,3,7,,50-50,4,14,Gonzales,Sampson,Elias,2:50,N,16110,0.31,--------, @ SEA,Adrian Sampson (R),Marco Gonzales (L),L 117,O 9.5
+99,Sunday Jul 21,TEX,L,3,5,,50-49,4,13,Armenteros,Lynn,Osuna,3:08,D,37655,0.43,-------, @ HOU,Lance Lynn (R),Rogelio Armenteros (R),L 127,U 9
+98,Saturday Jul 20,TEX,L,1,6,,50-48,3,12,Urquidy,Jurado,,2:25,N,41643,0.54,------, @ HOU,Ariel Jurado (R),Jose Urquidy (R),L 177,U 10
+97,Friday Jul 19,TEX,L,3,4,,50-47,3,11,Verlander,Minor,Osuna,2:59,N,42287,0.64,-----, @ HOU,Mike Minor (L),Justin Verlander (R),L 194,U 8
+96,Wednesday Jul 17,TEX,L,4,19,,50-46,3,9.5,Ray,Chavez,,3:14,N,26681,0.65,----, ARI,Jesse Chavez (R),Robbie Ray (L),L 119,O 10.5
+95,Tuesday Jul 16,TEX,L,2,9,,50-45,3,8.5,Young,Lynn,,3:23,N,19202,0.77,---, ARI,Lance Lynn (R),Alex Young (L),L -165,O 10
+94,Sunday Jul 14,TEX,L,4,12,,50-44,3,9,Verlander,Jurado,,3:40,D,27916,1.13,--, HOU,Ariel Jurado (R),Justin Verlander (R),L 193,O 10.5
+93,Saturday Jul 13,TEX,L,6,7,11,50-43,3,8,James,Martin,Osuna,4:09,N,42452,1.29,-, HOU,Mike Minor (L),Wade Miley (L),L 122,O 10
+92,Friday Jul 12,TEX,W-wo,9,8,,50-42,3,7,Kelley,Osuna,,3:07,N,32322,1.2,+++, HOU,Jesse Chavez (R),Gerrit Cole (R),W 197,O 9.5
+91,Thursday Jul 11,TEX,W,5,0,,49-42,3,8,Lynn,Valdez,,3:02,N,37964,1.03,++, HOU,Lance Lynn (R),Framber Valdez (L),W 114,U 10.5
+90,Sunday Jul 7,TEX,W,4,1,11,48-42,3,9,Kelley,Mejia,,4:15,D,35495,0.84,+, @ MIN,Jose Leclerc (R),Kyle Gibson (R),W 171,U 10.5
+89,Saturday Jul 6,TEX,L,4,7,,47-42,3,9,Pineda,Chavez,Rogers,3:12,D,36969,0.94,--, @ MIN,Jesse Chavez (R),Michael Pineda (R),L 140,O 10
+88,Friday Jul 5,TEX,L,6,15,,47-41,3,8,Perez,Sampson,,3:02,N,38073,1.04,-, @ MIN,Adrian Sampson (R),Martin Perez (L),L 167,O 9.5
+87,Thursday Jul 4,TEX,W,9,3,,47-40,3,8,Lynn,Canning,,3:27,N,45556,1.02,+, LAA,Lance Lynn (R),Griffin Canning (R),W -112,O 11
+86,Wednesday Jul 3,TEX,L,2,6,,46-40,3,8.5,Barria,Jurado,,2:55,N,28998,1.09,----, LAA,Ariel Jurado (R),Jaime Barria (R),L 101,U 11.5
+85,Tuesday Jul 2,TEX,L,4,9,,46-39,3,7.5,Cahill,Fairbanks,,4:12,N,20931,1.24,---, LAA,Mike Minor (L),Jose Suarez (L),L -135,O 10.5
+84,Sunday Jun 30,TEX,L,2,6,,46-38,2,6.5,Snell,Chavez,,2:28,D,11234,1.37,--, @ TB,Jesse Chavez (R),Blake Snell (L),L 185,P 8
+83,Saturday Jun 29,TEX,L,2,5,,46-37,2,5.5,McKay,Sampson,,2:56,D,16655,1.43,-, @ TB,Adrian Sampson (R),Brendan McKay (L),L 169,U 8.5
+82,Friday Jun 28,TEX,W,5,0,,46-36,2,4.5,Lynn,Chirinos,,2:48,N,13955,1.42,++++++, @ TB,Lance Lynn (R),Yonny Chirinos (R),W 112,U 8
+81,Thursday Jun 27,TEX,W,3,1,,45-36,2,4.5,Jurado,Turnbull,Kelley,2:52,D,22925,1.19,+++++, @ DET,Ariel Jurado (R),Spencer Turnbull (R),W -115,U 9.5
+80,Wednesday Jun 26,TEX,W,4,1,,44-36,2,5.5,Minor,Boyd,,2:19,N,19732,1.1,++++, @ DET,Mike Minor (L),Matthew Boyd (L),W -117,U 8.5
+79,Tuesday Jun 25,TEX,W,5,3,,43-36,2,6.5,Chavez,Zimmermann,,2:47,N,18952,1.08,+++, @ DET,Jesse Chavez (R),Jordan Zimmermann (R),W -152,U 10
+78,Sunday Jun 23,TEX,W,7,4,,42-36,2,6.5,Sampson,Nova,Kelley,3:07,D,21917,1.09,++, CHW,Adrian Sampson (R),Ivan Nova (R),W -125,U 11.5
+77,Saturday Jun 22,TEX,W,6,5,,41-36,2,6.5,Lynn,Marshall,Martin,3:04,N,33582,0.96,+, CHW,Lance Lynn (R),Odrisamer Despaigne (R),W -185,O 10.5
+76,Friday Jun 21,TEX,L,4,5,10,40-36,2,7.5,Herrera,Kelley,Colome,3:23,N,29333,1.05,-, CHW,Ariel Jurado (R),Reynaldo Lopez (R),L -131,U 11.5
+75,Thursday Jun 20,TEX,W,4,2,,40-35,2,7.5,Minor,Bieber,Kelley,2:35,D,18531,0.99,+, CLE,Mike Minor (L),Shane Bieber (R),W 106,U 9
+74,Wednesday Jun 19,TEX,L,4,10,,39-35,2,8.5,Perez,Palumbo,,3:17,N,22906,1.04,--, CLE,Joe Palumbo (L),Adam Plutko (R),L 108,O 11
+73,Tuesday Jun 18,TEX,L,3,10,,39-34,2,8.5,Plesac,Sampson,,3:13,N,19223,1.08,-, CLE,Adrian Sampson (R),Zach Plesac (R),L 105,O 10.5
+72,Monday Jun 17,TEX,W,7,2,,39-33,2,8.5,Lynn,Clevinger,,2:52,N,20860,1.04,+, CLE,Lance Lynn (R),Mike Clevinger (R),W 115,U 9.5
+71,Sunday Jun 16,TEX,L,3,11,,38-33,2,9.5,Gray,Jurado,,3:21,D,24079,0.94,-, @ CIN,Ariel Jurado (R),Sonny Gray (R),L 156,O 8.5
+70,Saturday Jun 15,TEX,W,4,3,,38-32,2,9.5,Minor,Roark,Kelley,2:39,N,25693,0.91,++, @ CIN,Mike Minor (L),Tanner Roark (R),W 106,U 8
+69,Friday Jun 14,TEX,W,7,1,,37-32,2,9.5,Martin,Mahle,Smyly,3:08,N,30090,0.91,+, @ CIN,Jesse Chavez (R),Tyler Mahle (R),W 147,U 9
+68,Thursday Jun 13,TEX,L,6,7,,36-32,2,9.5,Workman,Fairbanks,Smith,4:06,N,35841,1.03,--, @ BOS,Adrian Sampson (R),David Price (L),L 216,O 8.5
+67,Wednesday Jun 12,TEX,L-wo,3,4,,36-31,2,9,Barnes,Chavez,,2:54,D,34330,1.05,-, @ BOS,Lance Lynn (R),Rick Porcello (R),L 140,U 9.5
+66,Tuesday Jun 11,TEX,W,9,5,,36-30,2,9,Jurado,Hernandez,,3:40,N,35121,1.05,++, @ BOS,Ariel Jurado (R),Darwinzon Hernandez (L),W 173,O 10
+65,Monday Jun 10,TEX,W,4,3,11,35-30,2,9,Chavez,Brasier,Martin,3:25,N,34422,1,+, @ BOS,Mike Minor (L),Chris Sale (L),W 229,U 7.5
+64,Sunday Jun 9,TEX,L,8,9,,34-30,2,9.5,Montas,Smyly,Treinen,3:25,D,20358,1.08,-, OAK,Drew Smyly (L),Frankie Montas (R),L 184,O 11
+63,Saturday Jun 8 (2),TEX,W,3,1,,34-29,2,8.5,Sampson,Bassitt,,2:45,N,39514,0.97,++, OAK,Adrian Sampson (R),Chris Bassitt (R),W 132,U 10.5
+62,Saturday Jun 8 (1),TEX,W,10,5,,33-29,2,8.5,Springs,Blackburn,,3:12,D,22327,0.94,+, OAK,Joe Palumbo (L),Paul Blackburn (R),W 125,O 11.5
+61,Friday Jun 7,TEX,L,3,5,,32-29,2,10,Petit,Leclerc,Treinen,3:09,N,25120,1.02,-, OAK,Lance Lynn (R),Brett Anderson (L),L -104,U 10
+60,Thursday Jun 6,TEX,W,4,3,,32-28,2,9,Jurado,Hess,Kelley,2:29,N,20462,0.89,++, BAL,Ariel Jurado (R),David Hess (R),W -181,U 11
+59,Wednesday Jun 5,TEX,W-wo,2,1,12,31-28,2,9,Springs,Fry,,4:18,N,21163,0.82,+, BAL,Mike Minor (L),John Means (L),W -168,U 9
+58,Tuesday Jun 4,TEX,L,11,12,,30-28,2,10,Bundy,Smyly,Givens,3:42,N,21903,0.9,-, BAL,Drew Smyly (L),Dylan Bundy (R),L -133,O 10.5
+57,Sunday Jun 2,TEX,W,5,1,,30-27,2,8.5,Sampson,Keller,,2:38,D,21891,0.89,+++, KC,Adrian Sampson (R),Brad Keller (R),W -113,U 11
+56,Saturday Jun 1,TEX,W,6,2,,29-27,2,8.5,Lynn,Bailey,,3:08,D,27133,0.89,++, KC,Lance Lynn (R),Homer Bailey (R),W -172,U 10.5
+55,Friday May 31,TEX,W,6,2,,28-27,3,8.5,Jurado,Duffy,,2:36,N,31183,0.82,+, KC,Ariel Jurado (R),Danny Duffy (L),W -107,U 10.5
+54,Thursday May 30,TEX,L,2,4,,27-27,3,8.5,Junis,Minor,Kennedy,3:06,N,26202,0.87,-, KC,Mike Minor (L),Jakob Junis (R),L -170,U 9.5
+53,Wednesday May 29,TEX,W,8,7,,27-26,3,8,Chavez,Bass,Kelley,3:20,D,16060,0.84,++, @ SEA,Jose Leclerc (R),Wade LeBlanc (L),W 122,O 9.5
+52,Tuesday May 28,TEX,W,11,4,,26-26,3,9,Sampson,Gonzales,,3:17,N,12287,0.79,+, @ SEA,Jesse Chavez (R),Marco Gonzales (L),W 143,O 10
+51,Monday May 27,TEX,L,2,6,,25-26,3,9,Milone,Lynn,,3:14,N,14086,0.87,---, @ SEA,Lance Lynn (R),Tommy Milone (L),L 110,U 9.5
+50,Sunday May 26,TEX,L,6,7,,25-25,3,8,Garcia,Springs,Anderson,3:27,D,39406,0.95,--, @ LAA,Ariel Jurado (R),Andrew Heaney (L),L 148,O 9
+49,Saturday May 25,TEX,L-wo,2,3,,25-24,3,8,Robles,Kelley,,3:11,N,36392,0.97,-, @ LAA,Mike Minor (L),Tyler Skaggs (L),L -107,U 8.5
+48,Friday May 24,TEX,W,4,3,,25-23,2,7,Smyly,Bedrosian,Kelley,3:13,N,43806,0.96,+++++, @ LAA,Drew Smyly (L),Griffin Canning (R),W 147,U 9.5
+47,Wednesday May 22,TEX,W,2,1,,24-23,2,7.5,Sampson,Gonzales,Kelley,2:27,D,22400,0.87,++++, SEA,Jesse Chavez (R),Marco Gonzales (L),W 117,U 11.5
+46,Tuesday May 21,TEX,W,5,3,,23-23,2,8.5,Lynn,Milone,Kelley,2:56,N,19157,0.88,+++, SEA,Lance Lynn (R),Tommy Milone (L),W -118,U 11.5
+45,Monday May 20,TEX,W,10,9,,22-23,2,8.5,Minor,Leake,,2:53,N,18796,0.81,++, SEA,Mike Minor (L),Mike Leake (R),W -144,O 11
+44,Sunday May 19,TEX,W-wo,5,4,10,21-23,2,8.5,Gomez,Hicks,,3:41,D,32112,0.67,+, STL,Drew Smyly (L),Jack Flaherty (R),W 150,U 11
+43,Saturday May 18,TEX,L,2,8,,20-23,3,9.5,Hudson,Jurado,,3:14,N,30967,0.74,-, STL,Ariel Jurado (R),Dakota Hudson (R),L 105,U 12.5
+42,Friday May 17,TEX,W,7,3,,20-22,2,8.5,Sampson,Mikolas,,2:59,N,34398,0.73,+++, STL,Jose Leclerc (R),Miles Mikolas (R),W 147,U 11
+41,Thursday May 16,TEX,W,16,1,,19-22,3,8.5,Lynn,Bailey,,3:14,D,17469,0.68,++, @ KC,Lance Lynn (R),Homer Bailey (R),W -103,O 10.5
+40,Wednesday May 15,TEX,W,6,1,,18-22,4,9,Minor,Lopez,,3:24,N,14572,0.65,+, @ KC,Mike Minor (L),Jorge Lopez (R),W -118,U 9.5
+39,Tuesday May 14,TEX,L,5,11,,17-22,4,9,Duffy,Miller,,3:24,N,19410,0.69,-----, @ KC,Shelby Miller (R),Danny Duffy (L),L 126,O 10
+38,Sunday May 12,TEX,L,5,15,,17-21,4,7.5,Martin,Sampson,,3:08,D,41027,0.99,----, @ HOU,Adrian Sampson (R),Corbin Martin (R),L 197,O 9.5
+37,Saturday May 11,TEX,L,4,11,,17-20,4,6.5,Cole,Smyly,,3:15,N,35849,1.06,---, @ HOU,Jesse Chavez (R),Gerrit Cole (R),L 261,O 8.5
+36,Friday May 10,TEX,L,0,3,,17-19,3,5.5,Verlander,Lynn,Osuna,2:29,N,33023,1.16,--, @ HOU,Lance Lynn (R),Justin Verlander (R),L 242,U 8.5
+35,Thursday May 9,TEX,L,2,4,,17-18,3,4.5,Miley,Minor,Osuna,2:58,N,26657,1.2,-, @ HOU,Mike Minor (L),Wade Miley (L),L 165,U 9
+34,Wednesday May 8,TEX,W,9,6,,17-17,3,3.5,Jurado,Lyons,Martin,3:18,D,13905,0.92,+, @ PIT,Shelby Miller (R),Nick Kingham (R),W 112,O 9
+33,Tuesday May 7,TEX,L,4,5,,16-17,3,3.5,Feliz,Sampson,Vazquez,2:50,N,13032,0.99,-, @ PIT,Adrian Sampson (R),Steven Brault (L),L 134,O 8.5
+32,Sunday May 5,TEX,W,10,2,,16-16,3,3,Dowdy,Buchholz,,2:50,D,30934,0.96,++, TOR,Drew Smyly (L),Clay Buchholz (R),W -130,O 10.5
+31,Saturday May 4,TEX,W,8,5,,15-16,3,3,Lynn,Pannone,Kelley,2:59,N,31787,0.88,+, TOR,Lance Lynn (R),Thomas Pannone (L),W -122,O 10
+30,Friday May 3,TEX,L,0,1,12,14-16,3,3,Hudson,Jurado,Giles,4:00,N,26179,0.94,---, TOR,Mike Minor (L),Trent Thornton (R),L -139,U 9
+29,Wednesday May 1,TEX,L,5,7,,14-15,3,3,Taillon,Miller,Vazquez,3:10,D,23562,0.95,--, PIT,Shelby Miller (R),Jameson Taillon (R),L 123,O 10.5
+28,Tuesday Apr 30,TEX,L,4,6,11,14-14,3,3,Crick,Chavez,Vazquez,4:14,N,18641,0.99,-, PIT,Adrian Sampson (R),Jordan Lyles (R),L -105,U 11
+27,Sunday Apr 28,TEX,W,14,1,,14-13,3,2.5,Lynn,Swanson,,3:10,D,21513,1.14,++, @ SEA,Lance Lynn (R),Erik Swanson (R),W 118,O 8.5
+26,Saturday Apr 27,TEX,W,15,1,,13-13,3,3,Minor,Leake,,3:11,N,26495,1.05,+, @ SEA,Mike Minor (L),Mike Leake (R),W -106,O 8.5
+25,Friday Apr 26,TEX,L-wo,4,5,11,13-Dec,4,4,Elias,Dowdy,,4:06,N,21719,1.07,-----, @ SEA,Shelby Miller (R),Yusei Kikuchi (L),L 127,P 9
+24,Thursday Apr 25,TEX,L,2,14,,12-Dec,4,3,Gonzales,Hearn,,3:25,N,12649,1.14,----, @ SEA,Taylor Hearn (L),Marco Gonzales (L),L 126,O 8.5
+23,Wednesday Apr 24,TEX,L-wo,5,6,,11-Dec,3,2.5,Treinen,Martin,,3:22,D,18610,1.14,---, @ OAK,Kyle Dowdy (R),Aaron Brooks (R),L 150,O 9.5
+22,Tuesday Apr 23,TEX,L,5,11,,10-Dec,3,2,Montas,Lynn,,3:17,N,10496,1.18,--, @ OAK,Lance Lynn (R),Frankie Montas (R),L 145,O 8
+21,Monday Apr 22,TEX,L,1,6,,9-Dec,3,2,Bassitt,Minor,,2:48,N,8073,1.17,-, @ OAK,Mike Minor (L),Chris Bassitt (R),L 134,U 8.5
+20,Sunday Apr 21,TEX,W,11,10,,8-Dec,3,1.5,Miller,McHugh,Kelley,3:16,D,26225,1.2,++, HOU,Shelby Miller (R),Collin McHugh (R),W 170,O 10.5
+19,Saturday Apr 20,TEX,W,9,4,,8-Nov,3,2.5,Kelley,Cole,,2:51,N,39636,1.13,+, HOU,Adrian Sampson (R),Gerrit Cole (R),W 229,O 10
+18,Friday Apr 19,TEX,L,2,7,,8-Oct,3,2.5,Verlander,Smyly,,3:16,N,35649,1.18,-, HOU,Drew Smyly (L),Justin Verlander (R),L 195,U 9.5
+17,Wednesday Apr 17,TEX,W,5,4,,7-Oct,3,1.5,Lynn,Harvey,Leclerc,3:19,N,16691,1.08,++++, LAA,Lance Lynn (R),Matt Harvey (R),W -128,U 10
+16,Tuesday Apr 16,TEX,W,5,0,,7-Sep,3,2.5,Minor,Barria,,2:31,N,17704,1,+++, LAA,Mike Minor (L),Jaime Barria (R),W -114,U 10
+15,Monday Apr 15,TEX,W,12,7,,7-Aug,3,3,Dowdy,Bedrosian,Leclerc,3:26,N,18265,0.91,++, LAA,Shelby Miller (R),Trevor Cahill (R),W 109,O 10.5
+14,Sunday Apr 14,TEX,W,8,7,,7-Jul,5,4,Springs,Soria,Leclerc,3:05,D,26350,0.87,+, OAK,Adrian Sampson (R),Brett Anderson (L),W 130,O 10
+13,Friday Apr 12,TEX,L,6,8,,7-Jun,5,5.5,Trivino,Martin,Treinen,3:16,N,24817,0.92,-, OAK,Drew Smyly (L),Mike Fiers (R),L 103,O 10.5
+12,Wednesday Apr 10,TEX,W,5,2,,6-Jun,4,5,Lynn,Chafin,Bird,3:35,N,15871,0.83,+, @ ARI,Lance Lynn (R),Robbie Ray (L),W 126,U 8
+11,Tuesday Apr 9,TEX,L-wo,4,5,,6-May,4,5,Andriese,Leclerc,,2:48,N,16620,0.88,----, @ ARI,Mike Minor (L),Zack Greinke (R),L 129,O 8.5
+10,Sunday Apr 7,TEX,L,2,7,,5-May,2,3.5,Anderson,Miller,,3:30,D,42076,1.11,---, @ LAA,Shelby Miller (R),Chris Stratton (R),L 110,U 9.5
+9,Saturday Apr 6,TEX,L,1,5,,4-May,2,2.5,Skaggs,Smyly,,3:22,D,31747,1.14,--, @ LAA,Drew Smyly (L),Tyler Skaggs (L),L 142,U 8.5
+8,Friday Apr 5,TEX,L,1,3,,3-May,2,1.5,Anderson,Lynn,Allen,2:52,N,41089,1.11,-, @ LAA,Lance Lynn (R),Felix Pena (R),L 106,U 8.5
+7,Thursday Apr 4,TEX,W,11,4,,2-May,2,1.5,Springs,Harvey,,3:49,N,42027,1.09,+++, @ LAA,Edinson Volquez (R),Matt Harvey (R),W 142,O 9
+6,Wednesday Apr 3,TEX,W,4,0,,2-Apr,2,2,Minor,Cole,,2:39,N,22265,1.05,++, HOU,Mike Minor (L),Gerrit Cole (R),W 192,U 9
+5,Tuesday Apr 2,TEX,W,6,4,,2-Mar,3,2.5,Kelley,Valdez,Leclerc,3:23,N,17907,1.02,+, HOU,Shelby Miller (R),Justin Verlander (R),W 202,O 9
+4,Monday Apr 1,TEX,L,1,2,,2-Feb,3,2.5,Peacock,Sampson,Osuna,2:39,N,18056,1.09,-, HOU,Drew Smyly (L),Brad Peacock (R),L 155,U 9.5
+3,Sunday Mar 31,TEX,W-wo,11,10,,1-Feb,2,1.5,Leclerc,Strop,,3:46,D,36812,0.92,++, CHC,Lance Lynn (R),Cole Hamels (L),W 121,O 8.5
+2,Saturday Mar 30,TEX,W,8,6,,1-Jan,2,1.5,Kelley,Edwards,Leclerc,3:47,N,46238,0.88,+, CHC,Edinson Volquez (R),Yu Darvish (R),W 147,O 9.5
+1,Thursday Mar 28,TEX,L,4,12,,0-1,3,2,Lester,Minor,,3:07,D,48538,0.92,-, CHC,Mike Minor (L),Jon Lester (L),L -100,O 9.5
