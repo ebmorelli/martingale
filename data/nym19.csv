@@ -1,0 +1,163 @@
+game,date,Tm,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,opp,sp h,sp a,result and moneyline,ou
+162,Sunday Sep 29,NYM,W-wo,7,6,11,86-76,3,11,Mazza,Dayton,,3:44,D,31523,0,+++, ATL,Noah Syndergaard (R),Mike Soroka (R),W -114,O 8
+161,Saturday Sep 28,NYM,W,3,0,,85-76,3,12,Matz,Foltynewicz,Diaz,2:33,N,32210,0,++, ATL,Steven Matz (L),Mike Foltynewicz (R),W -105,U 9
+160,Friday Sep 27,NYM,W,4,2,,84-76,3,13,Stroman,Keuchel,Lugo,3:09,N,26264,0,+, ATL,Marcus Stroman (R),Dallas Keuchel (L),W -112,U 8
+159,Thursday Sep 26,NYM,L,2,4,,83-76,3,14,Brigham,Wheeler,Urena,2:45,N,21729,0,-, MIA,Zack Wheeler (R),Jordan Yamamoto (R),L -268,U 8
+158,Wednesday Sep 25,NYM,W,10,3,,83-75,3,13.5,deGrom,Dugger,,2:48,N,21471,0.02,++, MIA,Jacob deGrom (R),Robert Dugger (R),W -468,O 7.5
+157,Tuesday Sep 24,NYM,W-wo,5,4,11,82-75,3,13.5,Sewald,Conley,,3:51,N,21766,0.06,+, MIA,Noah Syndergaard (R),Sandy Alcantara (R),W -296,O 8
+156,Monday Sep 23,NYM,L,4,8,,81-75,3,14.5,Smith,Matz,,3:25,N,21189,0.23,-, MIA,Steven Matz (L),Caleb Smith (L),L -256,O 8.5
+155,Sunday Sep 22,NYM,W,6,3,,81-74,3,14,Brach,Bauer,Wilson,3:08,D,21335,0.21,+, @ CIN,Marcus Stroman (R),Trevor Bauer (R),W -145,P 9
+154,Saturday Sep 21,NYM,L,2,3,,80-74,3,15,Kuhnel,Wilson,Iglesias,2:48,D,30487,0.55,-, @ CIN,Zack Wheeler (R),Anthony DeSclafani (R),L -145,U 9.5
+153,Friday Sep 20,NYM,W,8,1,,80-73,3,14,deGrom,Castillo,,3:06,N,20576,0.45,+++, @ CIN,Jacob deGrom (R),Luis Castillo (R),W -180,O 8
+152,Wednesday Sep 18,NYM,W,7,4,,79-73,3,13.5,Lugo,Diaz,,3:43,D,30174,0.2,++, @ COL,Noah Syndergaard (R),Jeff Hoffman (R),W -163,U 13
+151,Tuesday Sep 17,NYM,W,6,1,,78-73,3,14.5,Stroman,Melville,,2:50,N,33118,0.14,+, @ COL,Marcus Stroman (R),Tim Melville (R),W -152,U 14
+150,Monday Sep 16,NYM,L,4,9,,77-73,3,15.5,Senzatela,Matz,,3:09,N,28505,0.35,--, @ COL,Steven Matz (L),Antonio Senzatela (R),L -159,U 14.5
+149,Sunday Sep 15,NYM,L,2,3,,77-72,3,15,Jansen,Lugo,Maeda,3:12,N,31521,0.64,-, LAD,Zack Wheeler (R),Walker Buehler (R),L 135,U 8
+148,Saturday Sep 14,NYM,W,3,0,,77-71,3,15,Lugo,Kelly,Wilson,2:40,N,39264,0.55,+, LAD,Jacob deGrom (R),Hyun Jin Ryu (L),W -148,U 7.5
+147,Friday Sep 13,NYM,L,2,9,,76-71,4,15,Kershaw,Syndergaard,,3:22,N,36097,0.76,-, LAD,Noah Syndergaard (R),Clayton Kershaw (L),L 113,O 8
+146,Thursday Sep 12,NYM,W,11,1,,76-70,3,14,Stroman,Young,,3:25,D,21856,0.85,++++, ARI,Marcus Stroman (R),Alex Young (L),W -139,O 8
+145,Wednesday Sep 11,NYM,W,9,0,,75-70,3,15,Matz,Ray,,3:06,N,21841,0.64,+++, ARI,Steven Matz (L),Robbie Ray (L),W -121,P 9
+144,Tuesday Sep 10,NYM,W,3,2,,74-70,4,15,Wheeler,Gallen,Wilson,3:02,N,20843,0.47,++, ARI,Zack Wheeler (R),Zac Gallen (R),W -117,U 7.5
+143,Monday Sep 9,NYM,W,3,1,,73-70,4,16,deGrom,Kelly,Lugo,2:45,N,21337,0.41,+, ARI,Jacob deGrom (R),Merrill Kelly (R),W -227,U 7.5
+142,Sunday Sep 8,NYM,L,7,10,,72-70,4,16,Suarez,Sewald,Neris,4:29,D,30264,0.55,--, PHI,Noah Syndergaard (R),Vince Velasquez (R),L -185,O 8.5
+141,Saturday Sep 7,NYM,L,0,5,,72-69,4,16,Smyly,Stroman,,2:59,N,28848,0.69,-, PHI,Marcus Stroman (R),Drew Smyly (L),L -157,U 8.5
+140,Friday Sep 6,NYM,W-wo,5,4,,72-68,3,15,Diaz,Morin,,3:32,N,28107,0.5,++, PHI,Steven Matz (L),Zach Eflin (R),W -156,O 8.5
+139,Wednesday Sep 4,NYM,W,8,4,,71-68,4,14.5,Wheeler,Sanchez,,3:24,D,20237,0.39,+, @ WAS,Zack Wheeler (R),Anibal Sanchez (R),W -102,O 10
+138,Tuesday Sep 3,NYM,L-wo,10,11,,70-68,4,15,Guerra,Diaz,,3:17,N,20759,0.62,-, @ WAS,Jacob deGrom (R),Max Scherzer (R),L 105,O 7.5
+137,Monday Sep 2,NYM,W,7,3,,70-67,4,14,Syndergaard,Ross,,3:08,D,25329,0.52,+, @ WAS,Noah Syndergaard (R),Joe Ross (R),W -106,P 10
+136,Sunday Sep 1,NYM,L,2,5,,69-67,4,14,Neris,Zamora,,2:52,N,33492,0.67,-, @ PHI,Marcus Stroman (R),Zach Eflin (R),L -116,U 9.5
+135,Saturday Aug 31,NYM,W,6,3,,69-66,4,13,Matz,Vargas,Lugo,3:41,D,40690,0.56,++, @ PHI,Steven Matz (L),Jason Vargas (L),W -111,U 10
+134,Friday Aug 30,NYM,W,11,5,,68-66,4,13,Wilson,Morin,,3:28,N,30503,0.49,+, @ PHI,Zack Wheeler (R),Aaron Nola (R),W 135,O 9
+133,Thursday Aug 29,NYM,L,1,4,,67-66,4,13,Lester,deGrom,Kimbrel,2:35,N,38389,0.72,------, CHC,Jacob deGrom (R),Jon Lester (L),L -202,U 7
+132,Wednesday Aug 28,NYM,L,7,10,,67-65,4,12.5,Ryan,Syndergaard,Kimbrel,3:24,N,33987,0.98,-----, CHC,Noah Syndergaard (R),Kyle Hendricks (R),L -115,O 7.5
+131,Tuesday Aug 27,NYM,L,2,5,,67-64,4,11.5,Darvish,Stroman,,2:54,N,34158,1.06,----, CHC,Marcus Stroman (R),Yu Darvish (R),L -102,U 8
+130,Sunday Aug 25,NYM,L,1,2,,67-63,4,12,Keuchel,Matz,Melancon,2:45,D,30170,0.98,---, ATL,Steven Matz (L),Dallas Keuchel (L),L -106,U 8.5
+129,Saturday Aug 24,NYM,L,5,9,,67-62,4,11,Tomlin,Brach,,3:14,N,38300,1.13,--, ATL,Zack Wheeler (R),Max Fried (L),L -108,O 8
+128,Friday Aug 23,NYM,L,1,2,14,67-61,3,10,Jackson,Familia,Melancon,4:37,N,31437,1.32,-, ATL,Jacob deGrom (R),Mike Foltynewicz (R),L -184,U 7.5
+127,Thursday Aug 22,NYM,W,2,0,8,67-60,3,9,Syndergaard,Civale,Sewald,2:08,N,30998,1.2,+++++, CLE,Noah Syndergaard (R),Aaron Civale (R),W -124,U 8.5
+126,Wednesday Aug 21,NYM,W-wo,4,3,10,66-60,3,9,Avilan,Hand,,3:22,N,28349,1.17,++++, CLE,Marcus Stroman (R),Adam Plutko (R),W -141,U 9
+125,Tuesday Aug 20,NYM,W,9,2,,65-60,3,9,Matz,Bieber,,2:41,N,33800,1.06,+++, CLE,Steven Matz (L),Shane Bieber (R),W 142,O 8
+124,Sunday Aug 18,NYM,W,11,5,,64-60,3,9,Familia,McCarthy,,3:01,D,20661,1.06,++, @ KC,Zack Wheeler (R),Glenn Sparkman (R),W -179,O 10
+123,Saturday Aug 17,NYM,W,4,1,,63-60,4,9,deGrom,Junis,Lugo,2:35,N,28697,0.93,+, @ KC,Jacob deGrom (R),Jakob Junis (R),W -191,U 8.5
+122,Friday Aug 16,NYM,L,1,4,,62-60,4,9,Montgomery,Syndergaard,Kennedy,3:01,N,21439,1.06,-, @ KC,Noah Syndergaard (R),Mike Montgomery (L),L -175,U 9
+121,Thursday Aug 15,NYM,W,10,8,,62-59,4,9,Stroman,Teheran,Diaz,3:33,N,25424,0.97,+, @ ATL,Marcus Stroman (R),Julio Teheran (R),W 110,O 10
+120,Wednesday Aug 14,NYM,L,4,6,,61-59,4,10,Martin,Lugo,Blevins,3:15,N,23582,1.19,---, @ ATL,Steven Matz (L),Dallas Keuchel (L),L 132,P 10
+119,Tuesday Aug 13,NYM,L,3,5,,61-58,3,9,Fried,Wheeler,Melancon,3:18,N,27627,1.36,--, @ ATL,Zack Wheeler (R),Max Fried (L),L 115,U 9.5
+118,Sunday Aug 11,NYM,L,4,7,,61-57,3,8,Grace,Gsellman,Doolittle,3:35,D,41000,1.55,-, WAS,Jacob deGrom (R),Anibal Sanchez (R),L -205,O 8.5
+117,Saturday Aug 10,NYM,W,4,3,,61-56,3,7,Lugo,Rodney,,2:34,N,43875,1.42,++++++++, WAS,Noah Syndergaard (R),Patrick Corbin (L),W -133,U 8
+116,Friday Aug 9,NYM,W-wo,7,6,,60-56,3,8,Avilan,Doolittle,,3:20,N,39602,1.37,+++++++, WAS,Marcus Stroman (R),Stephen Strasburg (R),W 114,O 8.5
+115,Wednesday Aug 7,NYM,W,7,2,,59-56,4,8.5,Matz,Yamamoto,,2:26,D,26349,1.05,++++++, MIA,Steven Matz (L),Jordan Yamamoto (R),W -188,P 9
+114,Tuesday Aug 6,NYM,W,5,0,,58-56,4,8.5,Wheeler,Noesi,,2:38,N,27479,0.99,+++++, MIA,Zack Wheeler (R),Hector Noesi (R),W -257,U 8.5
+113,Monday Aug 5 (2),NYM,W,5,4,,57-56,4,8.5,Familia,Brigham,Lugo,3:09,N,29645,0.87,++++, MIA,Walker Lockett (R),Sandy Alcantara (R),W -179,P 9
+112,Monday Aug 5 (1),NYM,W,6,2,,56-56,4,8.5,deGrom,Dugger,,2:51,D,,0.78,+++, MIA,Jacob deGrom (R),Robert Dugger (R),W -342,O 7.5
+111,Sunday Aug 4,NYM,W,13,2,,55-56,4,10,Syndergaard,Musgrove,,2:51,D,22716,0.65,++, @ PIT,Noah Syndergaard (R),Joe Musgrove (R),W -114,O 8.5
+110,Saturday Aug 3,NYM,W,7,5,,54-56,4,11,Wilson,Crick,,3:21,N,37335,0.57,+, @ PIT,Marcus Stroman (R),Chris Archer (R),W -130,O 9
+109,Friday Aug 2,NYM,L,4,8,,53-56,4,11,Williams,Matz,,3:11,N,24311,0.61,-, @ PIT,Steven Matz (L),Trevor Williams (R),L -113,O 9.5
+108,Thursday Aug 1,NYM,W,4,0,,53-55,4,11,Wheeler,Cease,,2:32,D,23477,0.56,+++++++, @ CHW,Zack Wheeler (R),Dylan Cease (R),W -193,U 10
+107,Wednesday Jul 31,NYM,W,4,2,,52-55,4,11,Wilson,Colome,Diaz,3:27,N,25812,0.48,++++++, @ CHW,Jacob deGrom (R),Lucas Giolito (R),W -205,U 8
+106,Tuesday Jul 30,NYM,W,5,2,11,51-55,4,11,Gsellman,Ruiz,,3:51,N,15947,0.4,+++++, @ CHW,Noah Syndergaard (R),Reynaldo Lopez (R),W -147,U 9
+105,Sunday Jul 28,NYM,W,8,7,,50-55,4,11.5,Vargas,Archer,Diaz,3:21,D,32976,0.31,++++, PIT,Jason Vargas (L),Chris Archer (R),W -128,O 9
+104,Saturday Jul 27,NYM,W,3,0,,49-55,4,12.5,Matz,Williams,,2:10,N,39944,0.26,+++, PIT,Steven Matz (L),Trevor Williams (R),W -131,U 9
+103,Friday Jul 26,NYM,W,6,3,,48-55,4,12.5,Wheeler,Agrazal,Lugo,2:21,N,33776,0.22,++, PIT,Zack Wheeler (R),Dario Agrazal (R),W -168,U 9.5
+102,Thursday Jul 25,NYM,W,4,0,,47-55,4,12.5,deGrom,Lauer,,2:49,D,37822,0.18,+, SD,Jacob deGrom (R),Eric Lauer (L),W -206,U 7.5
+101,Wednesday Jul 24,NYM,L,2,7,,46-55,4,13,Strahm,Syndergaard,,3:20,N,32252,0.25,-, SD,Noah Syndergaard (R),Dinelson Lamet (R),L -147,O 8.5
+100,Tuesday Jul 23,NYM,W,5,2,,46-54,4,13,Vargas,Paddack,Diaz,3:02,N,33199,0.2,+, SD,Jason Vargas (L),Chris Paddack (R),W 127,U 8.5
+99,Sunday Jul 21,NYM,L-wo,2,3,12,45-54,4,14,Gott,Gsellman,,3:28,D,35406,0.28,-, @ SF,Steven Matz (L),Conner Menez (L),L -100,U 8.5
+98,Saturday Jul 20,NYM,W,11,4,,45-53,4,13,Lockett,Samardzija,,2:50,D,33860,0.23,+, @ SF,Walker Lockett (R),Jeff Samardzija (R),W 139,O 9
+97,Friday Jul 19,NYM,L-wo,0,1,10,44-53,4,14,Dyson,Rhame,,2:51,N,32861,0.29,--, @ SF,Jacob deGrom (R),Tyler Beede (R),L -171,U 7.5
+96,Thursday Jul 18,NYM,L-wo,2,3,16,44-52,4,13,Jerez,Mazza,,4:47,N,36862,0.35,-, @ SF,Noah Syndergaard (R),Madison Bumgarner (L),L 112,U 7
+95,Wednesday Jul 17,NYM,W,14,4,,44-51,4,13,Vargas,May,,3:16,D,35124,0.27,++++, @ MIN,Jason Vargas (L),Martin Perez (L),W 161,O 11
+94,Tuesday Jul 16,NYM,W,3,2,,43-51,4,14,Avilan,Pineda,Diaz,3:13,N,28712,0.24,+++, @ MIN,Steven Matz (L),Michael Pineda (R),W 140,U 10.5
+93,Sunday Jul 14,NYM,W,6,2,,42-51,4,14.5,deGrom,Alcantara,,3:16,D,14780,0.18,++, @ MIA,Jacob deGrom (R),Sandy Alcantara (R),W -232,O 7
+92,Saturday Jul 13,NYM,W,4,2,,41-51,4,14.5,Syndergaard,Anderson,Diaz,3:05,N,12963,0.15,+, @ MIA,Noah Syndergaard (R),Zac Gallen (R),W -132,U 7.5
+91,Friday Jul 12,NYM,L,4,8,,40-51,4,14.5,Smith,Vargas,,2:57,N,11856,0.2,--, @ MIA,Jason Vargas (L),Caleb Smith (L),L -108,O 8
+90,Sunday Jul 7,NYM,L,3,8,,40-50,4,13.5,Nola,Wheeler,,3:20,D,34247,0.29,-, PHI,Zack Wheeler (R),Aaron Nola (R),L 106,O 8
+89,Saturday Jul 6,NYM,W,6,5,,40-49,4,12.5,Syndergaard,Arrieta,Diaz,3:22,N,31350,0.24,+, PHI,Noah Syndergaard (R),Jake Arrieta (R),W -139,O 9
+88,Friday Jul 5,NYM,L,2,7,,39-49,4,13.5,Morgan,Diaz,,3:15,N,32546,0.31,--, PHI,Jacob deGrom (R),Vince Velasquez (R),L -197,O 8.5
+87,Wednesday Jul 3,NYM,L,1,5,,39-48,4,12,German,Vargas,,3:17,N,43323,0.32,-, NYY,Jason Vargas (L),Domingo German (R),L 125,U 10
+86,Tuesday Jul 2,NYM,W,4,2,,39-47,4,11,Lugo,Ottavino,Diaz,3:11,N,42150,0.29,++, NYY,Zack Wheeler (R),James Paxton (L),W 122,U 9
+85,Sunday Jun 30,NYM,W,8,5,,38-47,4,12,Font,Newcomb,Diaz,3:27,N,31743,0.28,+, ATL,Noah Syndergaard (R),Max Fried (L),W -103,O 8.5
+84,Saturday Jun 29,NYM,L,4,5,,37-47,4,13,Newcomb,Lugo,Jackson,3:39,D,40809,0.36,-------, ATL,Steven Matz (L),Julio Teheran (R),L 102,U 10.5
+83,Friday Jun 28,NYM,L,2,6,,37-46,4,12,Soroka,deGrom,,2:55,N,36421,0.46,------, ATL,Jacob deGrom (R),Mike Soroka (R),L -144,P 8
+82,Thursday Jun 27,NYM,L-wo,3,6,,37-45,4,11,Hammer,Diaz,,3:24,D,39161,0.52,-----, @ PHI,Zack Wheeler (R),Aaron Nola (R),L 123,P 9
+81,Wednesday Jun 26,NYM,L-wo,4,5,10,37-44,4,11,Garcia,Nogosek,,3:21,N,29822,0.63,----, @ PHI,Jason Vargas (L),Nick Pivetta (R),L 137,U 10.5
+80,Tuesday Jun 25,NYM,L,5,7,,37-43,4,10,Arrieta,Font,Neris,3:07,N,28125,0.73,---, @ PHI,Walker Lockett (R),Jake Arrieta (R),L 139,O 11
+79,Monday Jun 24,NYM,L,7,13,,37-42,4,9,Eflin,Matz,,3:18,N,29117,0.8,--, @ PHI,Steven Matz (L),Zach Eflin (R),L 119,O 10
+78,Sunday Jun 23,NYM,L,3,5,,37-41,4,9,Cishek,Lugo,Strop,2:49,D,39077,0.83,-, @ CHC,Jacob deGrom (R),Cole Hamels (L),L -103,U 8.5
+77,Saturday Jun 22,NYM,W,10,2,,37-40,4,8,Wheeler,Quintana,,3:01,D,41106,0.72,++, @ CHC,Zack Wheeler (R),Jose Quintana (L),W 117,O 8.5
+76,Friday Jun 21,NYM,W,5,4,,36-40,4,8,Pounders,Brach,Diaz,3:11,D,41078,0.62,+, @ CHC,Jason Vargas (L),Yu Darvish (R),W 156,P 9
+75,Thursday Jun 20,NYM,L,4,7,,35-40,4,9,Alzolay,Lockett,Cishek,2:59,N,38956,0.67,--, @ CHC,Walker Lockett (R),Tyler Chatwood (R),L 139,O 9.5
+74,Wednesday Jun 19,NYM,L,2,7,,35-39,4,8.5,Fried,Matz,,3:03,N,37104,0.92,-, @ ATL,Steven Matz (L),Max Fried (L),L 138,U 10
+73,Tuesday Jun 18,NYM,W,10,2,,35-38,3,7.5,deGrom,Teheran,,3:04,N,24791,0.78,+, @ ATL,Jacob deGrom (R),Julio Teheran (R),W -115,O 8.5
+72,Monday Jun 17,NYM,L,3,12,,34-38,3,8.5,Soroka,Wheeler,,3:05,N,24660,0.9,--, @ ATL,Zack Wheeler (R),Mike Soroka (R),L 120,O 9
+71,Sunday Jun 16,NYM,L,3,4,,34-37,3,7.5,Miller,Flexen,Martinez,3:09,D,37054,0.81,-, STL,Jason Vargas (L),Dakota Hudson (R),L 111,U 9
+70,Saturday Jun 15,NYM,W,8,7,,34-36,3,6.5,Syndergaard,Wacha,Diaz,3:33,N,32589,0.73,+, STL,Noah Syndergaard (R),Michael Wacha (R),W -147,O 9
+69,Friday Jun 14,NYM,L,5,9,,33-36,3,7.5,Gant,Familia,,3:05,N,28560,0.82,--, STL,Steven Matz (L),Daniel Ponce de Leon (R),L -124,O 8.5
+68,Thursday Jun 13,NYM,L,4,5,10,33-35,3,6.5,Martinez,Diaz,Hicks,3:02,N,31862,0.89,-, STL,Jacob deGrom (R),Jack Flaherty (R),L -148,O 7
+67,Tuesday Jun 11 (2),NYM,W,10,4,,33-34,3,5,Vargas,Paxton,,3:20,N,44698,0.81,+, @ NYY,Jason Vargas (L),James Paxton (L),W 178,O 9.5
+66,Tuesday Jun 11 (1),NYM,L,5,12,,32-34,3,5,Tanaka,Wheeler,,3:09,D,41538,0.87,-, @ NYY,Zack Wheeler (R),Masahiro Tanaka (R),L 131,O 9
+65,Sunday Jun 9,NYM,W,6,1,,32-33,3,5,Syndergaard,Hoffman,,2:32,D,29531,0.86,++, COL,Noah Syndergaard (R),Jeff Hoffman (R),W -154,U 8
+64,Saturday Jun 8,NYM,W,5,3,,31-33,3,6,Matz,Gray,Diaz,2:59,N,29077,0.83,+, COL,Steven Matz (L),Jon Gray (R),W -107,P 8
+63,Friday Jun 7,NYM,L,1,5,,30-33,3,6,Senzatela,deGrom,,3:03,N,27520,0.96,-, COL,Jacob deGrom (R),Antonio Senzatela (R),L -201,U 7.5
+62,Thursday Jun 6,NYM,W,7,3,,30-32,3,5,Lugo,Melancon,,2:43,D,28857,0.85,++, SF,Zack Wheeler (R),Shaun Anderson (R),W -171,O 7.5
+61,Wednesday Jun 5,NYM,W,7,0,,29-32,3,5.5,Vargas,Beede,,2:41,N,23357,0.78,+, SF,Jason Vargas (L),Tyler Beede (R),W -155,U 8.5
+60,Tuesday Jun 4,NYM,L,3,9,10,28-32,3,5.5,Melancon,Gsellman,,3:35,N,24878,0.87,---, SF,Noah Syndergaard (R),Madison Bumgarner (L),L -146,O 7
+59,Sunday Jun 2,NYM,L,1,7,,28-31,3,5,Kelly,Matz,,2:37,D,26945,0.93,--, @ ARI,Steven Matz (L),Merrill Kelly (R),L -103,U 9
+58,Saturday Jun 1,NYM,L-wo,5,6,11,28-30,3,5,Hirano,Bashlor,,3:42,N,34888,1.04,-, @ ARI,Jacob deGrom (R),Zack Greinke (R),L -102,O 7.5
+57,Friday May 31,NYM,W,5,4,,28-29,3,5,Wheeler,Andriese,Gsellman,3:14,N,24664,0.93,+, @ ARI,Zack Wheeler (R),Jon Duplantier (R),W -111,P 9
+56,Thursday May 30,NYM,L,0,2,,27-29,3,6,Ryu,Vargas,Jansen,2:47,N,47848,0.96,--, @ LAD,Jason Vargas (L),Hyun Jin Ryu (L),L 227,U 8.5
+55,Wednesday May 29,NYM,L-wo,8,9,,27-28,3,6,Alexander,Diaz,,3:31,N,40559,1.02,-, @ LAD,Noah Syndergaard (R),Walker Buehler (R),L 164,O 7.5
+54,Tuesday May 28,NYM,W,7,3,,27-27,3,5,Matz,Garcia,,3:22,N,45713,0.95,+, @ LAD,Steven Matz (L),Rich Hill (L),W 170,O 8
+53,Monday May 27,NYM,L,5,9,,26-27,3,5,Kershaw,Bashlor,Jansen,3:42,N,47816,1,-, @ LAD,Jacob deGrom (R),Clayton Kershaw (L),L 161,O 7
+52,Sunday May 26,NYM,W,4,3,,26-26,3,4.5,Wheeler,Turnbull,Diaz,2:33,D,31414,0.9,++, DET,Zack Wheeler (R),Spencer Turnbull (R),W -170,U 7.5
+51,Saturday May 25,NYM,W-wo,5,4,13,25-26,3,5.5,Santiago,Farmer,,4:11,D,40691,0.88,+, DET,Jason Vargas (L),Ryan Carpenter (L),W -177,P 9
+50,Friday May 24,NYM,L,8,9,,24-26,3,5.5,Farmer,Gagnon,Greene,3:12,N,27082,0.96,-, DET,Noah Syndergaard (R),Gregory Soto (L),L -280,O 7.5
+49,Thursday May 23,NYM,W,6,4,,24-25,3,4.5,Gsellman,Suero,Diaz,2:53,D,29962,0.98,++++, WAS,Steven Matz (L),Stephen Strasburg (R),W 167,O 7.5
+48,Wednesday May 22,NYM,W,6,1,,23-25,3,4.5,Gagnon,Barraclough,,2:59,N,27188,0.94,+++, WAS,Jacob deGrom (R),Max Scherzer (R),W 111,O 6.5
+47,Tuesday May 21,NYM,W-wo,6,5,,22-25,3,5.5,Diaz,Rainey,,3:05,N,24631,0.83,++, WAS,Zack Wheeler (R),Erick Fedde (R),W -135,O 7.5
+46,Monday May 20,NYM,W,5,3,,21-25,3,6.5,Gagnon,Corbin,Diaz,3:12,N,22335,0.82,+, WAS,Wilmer Font (R),Patrick Corbin (L),W 142,U 8.5
+45,Sunday May 19,NYM,L,0,3,,20-25,3,6.5,Alcantara,Syndergaard,,1:59,D,15983,0.82,-----, @ MIA,Noah Syndergaard (R),Sandy Alcantara (R),L -191,U 7.5
+44,Saturday May 18,NYM,L,0,2,,20-24,3,5.5,Lopez,Matz,Conley,2:38,D,13474,0.92,----, @ MIA,Steven Matz (L),Pablo Lopez (R),L -124,U 7.5
+43,Friday May 17,NYM,L,6,8,,20-23,3,4.5,Richards,deGrom,Romo,3:01,N,9870,1.02,---, @ MIA,Jacob deGrom (R),Trevor Richards (R),L -230,O 6.5
+42,Thursday May 16,NYM,L,6,7,,20-22,3,3.5,Jennings,Wheeler,Doolittle,3:16,D,28807,1.13,--, @ WAS,Zack Wheeler (R),Anibal Sanchez (R),L -127,O 8.5
+41,Wednesday May 15,NYM,L,1,5,,20-21,3,3.5,Corbin,Font,,2:28,N,29673,1.14,-, @ WAS,Wilmer Font (R),Patrick Corbin (L),L 142,U 8.5
+40,Tuesday May 14,NYM,W,6,2,,20-20,2,3.5,Syndergaard,Hellickson,,2:38,N,23315,1.06,+++, @ WAS,Noah Syndergaard (R),Jeremy Hellickson (R),W -142,P 8
+39,Saturday May 11,NYM,W,4,1,,19-20,3,3.5,deGrom,Alcantara,Diaz,2:41,N,32501,1.01,++, MIA,Jacob deGrom (R),Sandy Alcantara (R),W -306,U 7
+38,Friday May 10,NYM,W,11,2,,18-20,3,3.5,Wheeler,Lopez,,3:04,N,25194,0.95,+, MIA,Zack Wheeler (R),Pablo Lopez (R),W -172,O 7.5
+37,Wednesday May 8,NYM,L,2,3,,17-20,3,4.5,Reyes,Bashlor,Yates,2:44,D,21952,1,-, @ SD,Wilmer Font (R),Matt Strahm (L),L 119,U 8
+36,Tuesday May 7,NYM,W,7,6,,17-19,3,3.5,Lugo,Warren,Diaz,3:38,N,23129,0.94,+, @ SD,Noah Syndergaard (R),Cal Quantrill (R),W -155,O 7.5
+35,Monday May 6,NYM,L,0,4,,16-19,3,3.5,Paddack,deGrom,Stammen,2:14,N,20176,0.96,----, @ SD,Jacob deGrom (R),Chris Paddack (R),L -112,U 6
+34,Sunday May 5,NYM,L,2,3,,16-18,3,3.5,Davies,Vargas,Hader,2:39,D,36016,1.04,---, @ MIL,Jason Vargas (L),Zach Davies (R),L 149,U 9
+33,Saturday May 4,NYM,L-wo,3,4,18,16-17,3,2.5,Williams,Flexen,,5:22,N,39565,1.09,--, @ MIL,Zack Wheeler (R),Gio Gonzalez (L),L 109,U 9
+32,Friday May 3,NYM,L,1,3,,16-16,2,2.5,Woodruff,Matz,Hader,3:01,N,32550,1.12,-, @ MIL,Steven Matz (L),Brandon Woodruff (R),L 114,U 8.5
+31,Thursday May 2,NYM,W,1,0,,16-15,2,1.5,Syndergaard,Mahle,,2:10,D,21445,1.06,+, CIN,Noah Syndergaard (R),Tyler Mahle (R),W -181,U 7.5
+30,Wednesday May 1,NYM,L,0,1,,15-15,2,2,Duke,Diaz,Lorenzen,2:46,N,22119,1.1,-, CIN,Jacob deGrom (R),Anthony DeSclafani (R),L -178,U 7
+29,Tuesday Apr 30,NYM,W-wo,4,3,10,15-14,2,1,Gagnon,Iglesias,,3:24,N,20836,1.06,+, CIN,Jason Vargas (L),Luis Castillo (R),W -104,U 7.5
+28,Monday Apr 29,NYM,L,4,5,,14-14,2,2,Iglesias,Diaz,,3:15,N,20766,1.1,-, CIN,Zack Wheeler (R),Tanner Roark (R),L -156,O 7.5
+27,Sunday Apr 28,NYM,W,5,2,,14-13,2,1.5,Matz,Barnes,Diaz,2:52,D,25756,1.08,+, MIL,Steven Matz (L),Gio Gonzalez (L),W -124,U 8
+26,Saturday Apr 27,NYM,L,6,8,,13-13,2,1.5,Woodruff,Syndergaard,Hader,3:57,N,40610,1.12,---, MIL,Noah Syndergaard (R),Brandon Woodruff (R),L -131,O 7.5
+25,Friday Apr 26,NYM,L,2,10,,13-12,2,0.5,Albers,deGrom,,3:20,N,28131,1.13,--, MIL,Jacob deGrom (R),Chase Anderson (R),L -169,O 7
+24,Wednesday Apr 24,NYM,L,0,6,,13-11,1,Tied,Velasquez,Vargas,,3:21,N,27685,1.39,-, PHI,Jason Vargas (L),Vince Velasquez (R),L 123,U 9
+23,Tuesday Apr 23,NYM,W,9,0,,13-10,1,up 1.0,Wheeler,Eflin,,2:43,N,26049,1.4,++, PHI,Zack Wheeler (R),Zach Eflin (R),W -127,P 9
+22,Monday Apr 22,NYM,W,5,1,,10-Dec,1,Tied,Matz,Arrieta,,2:46,N,25293,1.28,+, PHI,Steven Matz (L),Jake Arrieta (R),W -106,U 9
+21,Sunday Apr 21,NYM,L,4,6,,10-Nov,2,1,Hudson,Syndergaard,Hicks,3:07,D,42765,1.13,--, @ STL,Noah Syndergaard (R),Dakota Hudson (R),L -132,O 9
+20,Saturday Apr 20,NYM,L,2,10,,9-Nov,2,1,Mikolas,Flexen,,2:45,D,47059,1.16,-, @ STL,Chris Flexen (R),Miles Mikolas (R),L 128,O 9
+19,Friday Apr 19,NYM,W,5,4,,8-Nov,1,Tied,Lugo,Wainwright,Diaz,3:31,N,40413,1.1,+, @ STL,Jason Vargas (L),Adam Wainwright (R),W 137,P 9
+18,Wednesday Apr 17,NYM,L,2,3,,8-Oct,2,1.5,Arrieta,Wheeler,Neris,2:52,D,39861,1.33,--, @ PHI,Zack Wheeler (R),Jake Arrieta (R),L 102,U 8.5
+17,Tuesday Apr 16,NYM,L,3,14,,7-Oct,2,0.5,Pivetta,Matz,Eickhoff,3:07,N,43933,1.35,-, @ PHI,Steven Matz (L),Nick Pivetta (R),L 104,O 9
+16,Monday Apr 15,NYM,W,7,6,11,6-Oct,1,up 0.5,Avilan,Neshek,Diaz,4:29,N,32423,1.31,+, @ PHI,Noah Syndergaard (R),Aaron Nola (R),W 106,O 7.5
+15,Sunday Apr 14,NYM,L,3,7,,6-Sep,2,0.5,Teheran,deGrom,,3:36,N,23385,1.29,--, @ ATL,Jacob deGrom (R),Julio Teheran (R),L -157,O 8.5
+14,Saturday Apr 13,NYM,L,7,11,,5-Sep,1,up 0.5,Toussaint,Oswalt,,3:34,N,40117,1.35,-, @ ATL,Jason Vargas (L),Sean Newcomb (L),L 134,O 10
+13,Friday Apr 12,NYM,W,6,2,,4-Sep,1,up 0.5,Wheeler,Wright,,3:07,N,33334,1.3,+++, @ ATL,Zack Wheeler (R),Kyle Wright (R),W -102,U 10
+12,Thursday Apr 11,NYM,W,6,3,,4-Aug,1,up 0.5,Matz,Gausman,Diaz,3:14,N,24015,1.25,++, @ ATL,Steven Matz (L),Kevin Gausman (R),W 118,P 9
+11,Wednesday Apr 10,NYM,W,9,6,,4-Jul,1,Tied,Syndergaard,Odorizzi,,3:15,N,20946,1,+, MIN,Noah Syndergaard (R),Jake Odorizzi (R),W -184,O 7
+10,Tuesday Apr 9,NYM,L,8,14,,4-Jun,3,1,Hildenberger,deGrom,,4:08,N,22126,1.05,--, MIN,Jacob deGrom (R),Kyle Gibson (R),L -250,O 6.5
+9,Sunday Apr 7,NYM,L,9,12,,3-Jun,2,0.5,Scherzer,Wheeler,,3:42,D,40681,1.25,-, WAS,Zack Wheeler (R),Max Scherzer (R),L 117,O 6
+8,Saturday Apr 6,NYM,W,6,5,,2-Jun,1,up 0.5,Familia,Sipp,Diaz,3:13,D,35156,1.23,+, WAS,Steven Matz (L),Patrick Corbin (L),W 115,O 7
+7,Thursday Apr 4,NYM,L,0,4,,2-May,1,Tied,Strasburg,Syndergaard,,3:19,D,44424,1.28,-, WAS,Noah Syndergaard (R),Stephen Strasburg (R),L -126,U 6.5
+6,Wednesday Apr 3,NYM,W,6,4,,1-May,1,up 0.5,deGrom,Richards,Diaz,3:07,N,7486,1.22,+++, @ MIA,Jacob deGrom (R),Trevor Richards (R),W -198,O 6.5
+5,Tuesday Apr 2,NYM,W,6,5,,1-Apr,2,0.5,Vargas,Urena,Wilson,3:23,N,5934,1.2,++, @ MIA,Jason Vargas (L),Jose Urena (R),W -139,O 8
+4,Monday Apr 1,NYM,W,7,3,,1-Mar,2,0.5,Familia,Steckenrider,,3:10,N,6489,1.13,+, @ MIA,Steven Matz (L),Caleb Smith (L),W -129,O 7.5
+3,Sunday Mar 31,NYM,L-wo,5,6,,1-Feb,2,1,Doolittle,Wilson,,3:15,D,23430,1.16,-, @ WAS,Zack Wheeler (R),Patrick Corbin (L),L 158,O 7
+2,Saturday Mar 30,NYM,W,11,8,,Feb-00,1,Tied,Wilson,Rosenthal,Diaz,3:50,D,33765,1.14,++, @ WAS,Noah Syndergaard (R),Stephen Strasburg (R),W 108,O 7.5
+1,Thursday Mar 28,NYM,W,2,0,,Jan-00,1,Tied,deGrom,Scherzer,Diaz,2:44,D,42263,1.06,+, @ WAS,Jacob deGrom (R),Max Scherzer (R),W 113,U 6.5

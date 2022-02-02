@@ -1,0 +1,163 @@
+game,date,Tm,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,opp,sp h,sp a,result and moneyline,ou
+162,Sunday Sep 29,WSN,W,8,2,,93-69,2,4,Ross,Clevinger,,2:50,D,36764,0,++++++++, CLE,Joe Ross (R),Mike Clevinger (R),W 152,O 9
+161,Saturday Sep 28,WSN,W,10,7,,92-69,2,5,Hudson,Plutko,,3:10,D,38435,0.05,+++++++, CLE,Patrick Corbin (L),Adam Plutko (R),W -270,O 9
+160,Friday Sep 27,WSN,W,8,2,,91-69,2,6,Voth,Goody,,2:44,N,27434,0.2,++++++, CLE,Austin Voth (R),Zach Plesac (R),W -141,O 9.5
+159,Thursday Sep 26,WSN,W,6,3,,90-69,2,7,Strasburg,Vargas,Hudson,3:26,D,22253,0.25,+++++, PHI,Stephen Strasburg (R),Jason Vargas (L),W -245,P 9
+158,Wednesday Sep 25,WSN,W,5,2,,89-69,2,7.5,Sanchez,Morin,Doolittle,2:45,N,22091,0.23,++++, PHI,Anibal Sanchez (R),Drew Smyly (L),W -160,U 10
+157,Tuesday Sep 24 (2),WSN,W,6,5,,88-69,2,7.5,Scherzer,Nola,Hudson,3:06,N,22214,0.22,+++, PHI,Max Scherzer (R),Aaron Nola (R),W -228,O 7.5
+156,Tuesday Sep 24 (1),WSN,W,4,1,,87-69,2,7.5,Rainey,Vincent,Hudson,3:07,D,23442,0.3,++, PHI,Joe Ross (R),Blake Parker (R),W -158,U 10.5
+155,Monday Sep 23,WSN,W,7,2,,86-69,2,9,Corbin,Eflin,,3:19,N,19788,0.55,+, PHI,Patrick Corbin (L),Zach Eflin (R),W -207,P 9
+154,Sunday Sep 22,WSN,L,3,5,,85-69,2,9.5,Garcia,Suero,Brigham,3:13,D,19709,0.38,-, @ MIA,Austin Voth (R),Pablo Lopez (R),L -184,U 8.5
+153,Saturday Sep 21,WSN,W,10,4,10,85-68,2,9.5,Suero,Urena,,4:20,N,18085,0.71,++, @ MIA,Stephen Strasburg (R),Jordan Yamamoto (R),W -318,O 8
+152,Friday Sep 20,WSN,W,6,4,,84-68,2,9.5,Sanchez,Dugger,Hudson,3:13,N,12775,1.11,+, @ MIA,Anibal Sanchez (R),Robert Dugger (R),W -228,O 9
+151,Wednesday Sep 18,WSN,L,1,5,,83-68,2,9,Wainwright,Scherzer,Martinez,2:55,D,37669,1.17,-, @ STL,Max Scherzer (R),Adam Wainwright (R),L -159,U 8
+150,Tuesday Sep 17,WSN,W,6,2,,83-67,2,9,Corbin,Mikolas,Hudson,3:21,N,44061,1.42,+, @ STL,Patrick Corbin (L),Miles Mikolas (R),W 105,P 8
+149,Monday Sep 16,WSN,L,2,4,,82-67,2,10,Hudson,Doolittle,Martinez,3:04,N,42812,0.98,-, @ STL,Stephen Strasburg (R),Dakota Hudson (R),L -139,U 8
+148,Sunday Sep 15,WSN,W,7,0,,82-66,2,9.5,Sanchez,Fried,,3:03,D,29350,1.02,+, ATL,Anibal Sanchez (R),Max Fried (L),W 109,U 10.5
+147,Saturday Sep 14,WSN,L,1,10,,81-66,2,10.5,Foltynewicz,Suero,,3:29,D,39664,0.7,--, ATL,Austin Voth (R),Mike Foltynewicz (R),L -108,O 10.5
+146,Friday Sep 13,WSN,L,0,5,,81-65,2,9.5,Soroka,Scherzer,,3:16,N,39730,0.62,-, ATL,Max Scherzer (R),Mike Soroka (R),L -153,U 8.5
+145,Thursday Sep 12,WSN,W,12,6,,81-64,2,8.5,Corbin,Gibson,,3:45,N,19167,0.66,++, @ MIN,Patrick Corbin (L),Kyle Gibson (R),W -132,O 9
+144,Wednesday Sep 11,WSN,W,6,2,,80-64,2,9.5,Strasburg,Perez,,3:12,N,20062,0.86,+, @ MIN,Stephen Strasburg (R),Martin Perez (L),W -147,U 9.5
+143,Tuesday Sep 10,WSN,L,0,5,,79-64,2,9.5,Berrios,Sanchez,,2:32,N,24813,0.72,-, @ MIN,Anibal Sanchez (R),Jose Berrios (R),L 121,U 10.5
+142,Sunday Sep 8,WSN,W,9,4,,79-63,2,9,Scherzer,Soroka,,3:16,D,31789,0.94,+, @ ATL,Max Scherzer (R),Mike Soroka (R),W -124,O 8.5
+141,Saturday Sep 7,WSN,L,4,5,,78-63,2,10,Teheran,Voth,Melancon,3:29,N,40467,0.84,----, @ ATL,Austin Voth (R),Julio Teheran (R),L 119,U 10.5
+140,Friday Sep 6,WSN,L,3,4,,78-62,2,9,Keuchel,Corbin,Greene,3:20,N,37181,0.83,---, @ ATL,Patrick Corbin (L),Dallas Keuchel (L),L -105,U 9
+139,Thursday Sep 5,WSN,L,2,4,,78-61,2,8,Fried,Strasburg,,2:57,N,28831,0.9,--, @ ATL,Stephen Strasburg (R),Max Fried (L),L -109,U 9.5
+138,Wednesday Sep 4,WSN,L,4,8,,78-60,2,7,Wheeler,Sanchez,,3:24,D,20237,0.69,-, NYM,Anibal Sanchez (R),Zack Wheeler (R),L -106,O 10
+137,Tuesday Sep 3,WSN,W-wo,11,10,,78-59,2,6.5,Guerra,Diaz,,3:17,N,20759,0.77,+, NYM,Max Scherzer (R),Jacob deGrom (R),W -114,O 7.5
+136,Monday Sep 2,WSN,L,3,7,,77-59,2,6.5,Syndergaard,Ross,,3:08,D,25329,0.75,-, NYM,Joe Ross (R),Noah Syndergaard (R),L -102,P 10
+135,Sunday Sep 1,WSN,W,9,3,,77-58,2,5.5,Corbin,Smith,,2:46,D,29345,0.82,++++, MIA,Patrick Corbin (L),Caleb Smith (L),W -294,O 8.5
+134,Saturday Aug 31,WSN,W,7,0,,76-58,2,5.5,Strasburg,Lopez,,2:31,N,27539,0.91,+++, MIA,Stephen Strasburg (R),Pablo Lopez (R),W -304,U 8.5
+133,Friday Aug 30,WSN,W-wo,7,6,,75-58,2,5.5,Hudson,Stanek,,3:35,N,26201,1.03,++, MIA,Anibal Sanchez (R),Elieser Hernandez (R),W -238,O 10
+132,Wednesday Aug 28,WSN,W,8,4,,74-58,2,5.5,Suero,Wojciechowski,,3:12,N,25174,1.08,+, BAL,Max Scherzer (R),Asher Wojciechowski (R),W -379,O 9
+131,Tuesday Aug 27,WSN,L,0,2,,73-58,2,5.5,Brooks,Corbin,Givens,2:52,N,24946,1.02,-, BAL,Patrick Corbin (L),Aaron Brooks (R),L -315,U 9.5
+130,Sunday Aug 25,WSN,W,7,5,11,73-57,2,6,Hudson,Chatwood,,4:35,D,40518,1.27,+++++, @ CHC,Stephen Strasburg (R),Cole Hamels (L),W -131,O 8.5
+129,Saturday Aug 24,WSN,W,7,2,,72-57,2,6,Suero,Quintana,,3:56,D,40658,1.4,++++, @ CHC,Joe Ross (R),Jose Quintana (L),W 158,P 9
+128,Friday Aug 23,WSN,W,9,3,,71-57,2,6,Sanchez,Lester,,3:10,D,39889,1.49,+++, @ CHC,Anibal Sanchez (R),Jon Lester (L),W 118,O 9
+127,Thursday Aug 22,WSN,W,7,1,,70-57,2,6,Strickland,Brault,,3:19,N,10587,1.4,++, @ PIT,Max Scherzer (R),Steven Brault (L),W -205,U 9
+126,Wednesday Aug 21,WSN,W,11,1,,69-57,2,6,Corbin,Musgrove,,2:54,N,10577,1.45,+, @ PIT,Patrick Corbin (L),Joe Musgrove (R),W -136,O 9
+125,Tuesday Aug 20,WSN,L,1,4,,68-57,2,6,Vazquez,Suero,,3:00,N,10449,1.48,-, @ PIT,Stephen Strasburg (R),Chris Archer (R),L -153,U 9
+124,Monday Aug 19,WSN,W,13,0,,68-56,2,5,Guerra,Williams,,3:16,N,11284,1.44,++, @ PIT,Joe Ross (R),Trevor Williams (R),W -112,O 10.5
+123,Sunday Aug 18,WSN,W,16,8,,67-56,2,5.5,Fedde,Anderson,,3:24,D,30571,1.62,+, MIL,Erick Fedde (R),Chase Anderson (R),W -102,O 11
+122,Saturday Aug 17,WSN,L,14,15,14,66-56,2,5.5,Guerra,Guerra,,5:40,N,36953,1.64,-, MIL,Anibal Sanchez (R),Jordan Lyles (R),L -114,O 10.5
+121,Friday Aug 16,WSN,W,2,1,,66-55,2,4.5,Strickland,Guerra,Doolittle,3:00,N,30091,1.62,+++++, MIL,Patrick Corbin (L),Adrian Houser (R),W -151,U 9
+120,Wednesday Aug 14,WSN,W,17,7,,65-55,2,6,Strasburg,Bauer,Guerra,3:38,D,23596,1.47,++++, CIN,Stephen Strasburg (R),Trevor Bauer (R),W -172,O 9
+119,Tuesday Aug 13,WSN,W,3,1,,64-55,2,6,Ross,Wood,Hudson,2:38,N,30130,1.5,+++, CIN,Joe Ross (R),Alex Wood (L),W -128,U 10.5
+118,Monday Aug 12,WSN,W,7,6,,63-55,2,6,Fedde,DeSclafani,Doolittle,3:11,N,22394,1.47,++, CIN,Erick Fedde (R),Anthony DeSclafani (R),W 107,O 10.5
+117,Sunday Aug 11,WSN,W,7,4,,62-55,2,6.5,Grace,Gsellman,Doolittle,3:35,D,41000,1.62,+, @ NYM,Anibal Sanchez (R),Jacob deGrom (R),W 188,O 8.5
+116,Saturday Aug 10,WSN,L,3,4,,61-55,2,6.5,Lugo,Rodney,,2:34,N,43875,1.59,--, @ NYM,Patrick Corbin (L),Noah Syndergaard (R),L 123,U 8
+115,Friday Aug 9,WSN,L-wo,6,7,,61-54,2,6.5,Avilan,Doolittle,,3:20,N,39602,1.69,-, @ NYM,Stephen Strasburg (R),Marcus Stroman (R),L -124,O 8.5
+114,Wednesday Aug 7,WSN,W,4,1,,61-53,2,6,Ross,Anderson,,2:59,D,30958,1.49,+++, @ SF,Joe Ross (R),Shaun Anderson (R),W -111,U 9
+113,Tuesday Aug 6,WSN,W,5,3,,60-53,2,6,Sanchez,Menez,Doolittle,2:45,N,31628,1.5,++, @ SF,Anibal Sanchez (R),Conner Menez (L),W -113,U 8.5
+112,Monday Aug 5,WSN,W,4,0,,59-53,2,6,Fedde,Samardzija,,3:12,N,32366,1.42,+, @ SF,Erick Fedde (R),Jeff Samardzija (R),W 121,U 8.5
+111,Sunday Aug 4,WSN,L,5,7,,58-53,2,7,Hirano,Suero,Bradley,3:07,D,22976,1.41,--, @ ARI,Patrick Corbin (L),Taylor Clarke (R),L -158,O 9.5
+110,Saturday Aug 3,WSN,L,7,18,,58-52,2,7,Ray,Strasburg,,3:46,N,33966,1.44,-, @ ARI,Stephen Strasburg (R),Robbie Ray (L),L -133,O 8
+109,Friday Aug 2,WSN,W,3,0,,58-51,2,6,Ross,Young,Doolittle,2:43,N,24298,1.37,+, @ ARI,Joe Ross (R),Alex Young (L),W 107,U 10
+108,Wednesday Jul 31,WSN,L,4,5,10,57-51,2,6.5,Newcomb,Doolittle,Tomlin,3:14,D,31576,1.77,--, ATL,Anibal Sanchez (R),Mike Soroka (R),L 116,U 9.5
+107,Tuesday Jul 30,WSN,L,8,11,,57-50,2,5.5,Teheran,Fedde,,3:47,N,26566,1.92,-, ATL,Erick Fedde (R),Julio Teheran (R),L -103,O 11
+106,Monday Jul 29,WSN,W,6,3,,57-49,2,4.5,Corbin,Keuchel,,3:23,N,24292,1.77,++, ATL,Patrick Corbin (L),Dallas Keuchel (L),W -144,U 9.5
+105,Sunday Jul 28,WSN,W,11,4,,56-49,2,5.5,Strasburg,Buehler,,3:09,D,32425,1.34,+, LAD,Stephen Strasburg (R),Walker Buehler (R),W 104,O 8.5
+104,Saturday Jul 27,WSN,L,3,9,,55-49,2,6.5,Kershaw,Ross,,3:06,D,39616,1.4,---, LAD,Matt Grace (L),Clayton Kershaw (L),L 170,O 10.5
+103,Friday Jul 26,WSN,L,2,4,,55-48,2,5.5,Kelly,Sipp,Jansen,3:20,N,37491,1.45,--, LAD,Anibal Sanchez (R),Hyun Jin Ryu (L),L 145,U 9.5
+102,Thursday Jul 25,WSN,L,7,8,,55-47,2,4.5,Diaz,Rodney,Davis,3:46,D,26831,1.53,-, COL,Max Scherzer (R),Jeff Hoffman (R),L -299,O 9
+101,Wednesday Jul 24 (2),WSN,W,2,0,,55-46,2,4,Corbin,Freeland,Doolittle,3:07,N,23843,1.45,+++, COL,Patrick Corbin (L),Kyle Freeland (L),W -229,U 9.5
+100,Wednesday Jul 24 (1),WSN,W,3,2,,54-46,2,4,Suero,Estevez,Doolittle,3:03,D,14628,1.44,++, COL,Erick Fedde (R),Jon Gray (R),W -112,U 9.5
+99,Tuesday Jul 23,WSN,W,11,1,,53-46,2,5.5,Strasburg,Lambert,,3:37,N,22612,1.34,+, COL,Stephen Strasburg (R),Peter Lambert (R),W -227,O 9
+98,Sunday Jul 21,WSN,L,1,7,,52-46,2,6.5,Gausman,Ross,,3:02,N,31848,1.8,-, @ ATL,Joe Ross (R),Kevin Gausman (R),L 145,U 11.5
+97,Saturday Jul 20,WSN,W,5,3,,52-45,2,5.5,Sanchez,Soroka,Doolittle,3:14,N,42467,1.66,+, @ ATL,Anibal Sanchez (R),Mike Soroka (R),W 150,U 10
+96,Friday Jul 19,WSN,L-wo,3,4,,51-45,2,6.5,Jackson,Rodney,,3:30,N,39344,1.79,-, @ ATL,Patrick Corbin (L),Julio Teheran (R),L -113,U 10
+95,Thursday Jul 18,WSN,W,13,4,,51-44,2,5.5,Strasburg,Wright,,3:44,N,39363,1.64,+, @ ATL,Stephen Strasburg (R),Kyle Wright (R),W -146,O 10
+94,Wednesday Jul 17,WSN,L,2,9,,50-44,2,6.5,Ynoa,Suero,Givens,2:51,N,20786,1.27,-, @ BAL,Erick Fedde (R),Aaron Brooks (R),L -172,U 11.5
+93,Tuesday Jul 16,WSN,W,8,1,,50-43,2,6.5,Voth,Wojciechowski,,3:10,N,23362,1.22,+, @ BAL,Austin Voth (R),Asher Wojciechowski (R),W -191,U 11
+92,Sunday Jul 14,WSN,L-wo,3,4,,49-43,2,7,Neris,Grace,,2:54,D,43075,1.5,-, @ PHI,Anibal Sanchez (R),Jake Arrieta (R),L 106,U 10.5
+91,Saturday Jul 13,WSN,W,4,3,,49-42,2,6,Suero,Neris,Doolittle,3:43,N,43732,1.49,++++, @ PHI,Patrick Corbin (L),Aaron Nola (R),W 107,U 8.5
+90,Friday Jul 12,WSN,W,4,0,,48-42,2,6,Strasburg,Pivetta,,3:15,N,42318,1.51,+++, @ PHI,Stephen Strasburg (R),Nick Pivetta (R),W -143,U 9.5
+89,Sunday Jul 7,WSN,W,5,2,,47-42,2,6,Doolittle,Diekman,,2:37,D,21873,1.28,++, KC,Patrick Corbin (L),Jakob Junis (R),W -245,U 9.5
+88,Saturday Jul 6,WSN,W,6,0,,46-42,2,6,Scherzer,Sparkman,,2:44,D,27863,1.13,+, KC,Max Scherzer (R),Glenn Sparkman (R),W -397,U 9.5
+87,Friday Jul 5,WSN,L,4,7,11,45-42,3,7,Flynn,Venters,Peralta,4:40,N,25213,1.18,-, KC,Austin Voth (R),Brad Keller (R),L -195,O 10.5
+86,Thursday Jul 4,WSN,W,5,2,,45-41,2,6,Sanchez,Hernandez,Rodney,3:17,D,27350,1.19,++++, MIA,Anibal Sanchez (R),Elieser Hernandez (R),W -184,U 10
+85,Wednesday Jul 3,WSN,W,3,1,,44-41,3,6,Strasburg,Alcantara,Doolittle,3:07,N,25483,1.1,+++, MIA,Stephen Strasburg (R),Sandy Alcantara (R),W -258,U 9.5
+84,Tuesday Jul 2,WSN,W-wo,3,2,,43-41,3,6,Doolittle,Quijada,,3:01,N,21361,1,++, MIA,Patrick Corbin (L),Zac Gallen (R),W -203,U 9
+83,Sunday Jun 30,WSN,W,2,1,,42-41,3,7,Scherzer,Jimenez,Doolittle,2:53,D,21052,0.88,+, @ DET,Max Scherzer (R),Jordan Zimmermann (R),W -312,U 9
+82,Saturday Jun 29,WSN,L,5,7,,41-41,3,8,Alcantara,Rainey,Greene,3:13,D,27716,1,-, @ DET,Austin Voth (R),Gregory Soto (L),L -192,O 11
+81,Friday Jun 28,WSN,W,3,1,,41-40,3,7,Sanchez,Norris,Rodney,3:04,N,20877,0.94,++++, @ DET,Anibal Sanchez (R),Daniel Norris (L),W -167,U 10.5
+80,Thursday Jun 27,WSN,W,8,5,,40-40,3,7,Strasburg,Alcantara,,2:51,N,7751,0.86,+++, @ MIA,Stephen Strasburg (R),Sandy Alcantara (R),W -191,O 7.5
+79,Wednesday Jun 26,WSN,W,7,5,,39-40,3,8,Corbin,Gallen,Doolittle,3:19,N,6276,0.81,++, @ MIA,Patrick Corbin (L),Zac Gallen (R),W -143,O 7.5
+78,Tuesday Jun 25,WSN,W,6,1,,38-40,3,8,Scherzer,Richards,,2:27,N,7327,0.74,+, @ MIA,Max Scherzer (R),Trevor Richards (R),W -231,P 7
+77,Sunday Jun 23,WSN,L,3,4,10,37-40,3,8.5,Minter,Rainey,Jackson,3:09,D,34256,1.02,--, ATL,Austin Voth (R),Mike Soroka (R),L 135,U 10.5
+76,Saturday Jun 22,WSN,L,9,13,,37-39,3,7.5,Minter,Ross,,3:42,N,37492,1.17,-, ATL,Anibal Sanchez (R),Mike Foltynewicz (R),L -104,O 10.5
+75,Friday Jun 21,WSN,W,4,3,,37-38,3,6.5,Strasburg,Keuchel,Suero,3:01,N,34212,1.01,+++++, ATL,Stephen Strasburg (R),Dallas Keuchel (L),W -140,U 9.5
+74,Thursday Jun 20,WSN,W,7,4,,36-38,3,7.5,Guerra,Pivetta,Doolittle,3:05,N,31329,0.83,++++, PHI,Erick Fedde (R),Nick Pivetta (R),W -101,O 10.5
+73,Wednesday Jun 19 (2),WSN,W,2,0,,35-38,3,8,Scherzer,Arrieta,Doolittle,3:05,N,24220,0.73,+++, PHI,Max Scherzer (R),Jake Arrieta (R),W -220,U 9
+72,Wednesday Jun 19 (1),WSN,W,6,2,,34-38,3,8,Corbin,Eflin,,2:46,D,17961,0.65,++, PHI,Patrick Corbin (L),Zach Eflin (R),W -152,U 9.5
+71,Sunday Jun 16,WSN,W,15,5,,33-38,4,8.5,Sanchez,Bradley,,3:14,D,29032,0.52,+, ARI,Anibal Sanchez (R),Archie Bradley (R),W -145,O 10
+70,Saturday Jun 15,WSN,L,3,10,,32-38,4,8.5,Hirano,Strasburg,,3:30,D,38044,0.59,-, ARI,Stephen Strasburg (R),Taylor Clarke (R),L -214,O 9.5
+69,Friday Jun 14,WSN,W,7,3,,32-37,4,8.5,Scherzer,Ray,,2:57,N,29853,0.53,+, ARI,Max Scherzer (R),Robbie Ray (L),W -189,O 7.5
+68,Thursday Jun 13,WSN,L,0,5,,31-37,4,8.5,Greinke,Fedde,,2:15,N,24909,0.61,--, ARI,Erick Fedde (R),Zack Greinke (R),L 104,U 8.5
+67,Tuesday Jun 11,WSN,L,5,7,,31-36,4,7,Marshall,Corbin,Colome,3:19,N,16790,0.66,-, @ CHW,Patrick Corbin (L),Manny Banuelos (L),L -181,O 10
+66,Monday Jun 10,WSN,W,12,1,,31-35,4,6,Sanchez,Despaigne,,3:06,N,16305,0.59,+++, @ CHW,Anibal Sanchez (R),Odrisamer Despaigne (R),W -142,O 10.5
+65,Sunday Jun 9,WSN,W,5,2,,30-35,4,7,Strasburg,Stammen,,2:56,D,30518,0.56,++, @ SD,Stephen Strasburg (R),Luis Perdomo (R),W -152,U 8
+64,Saturday Jun 8,WSN,W,4,1,,29-35,4,8,Scherzer,Lauer,Doolittle,2:39,N,30319,0.52,+, @ SD,Max Scherzer (R),Eric Lauer (L),W -183,U 7.5
+63,Friday Jun 7,WSN,L-wo,4,5,,28-35,4,8,Warren,Doolittle,,2:46,N,21645,0.63,--, @ SD,Erick Fedde (R),Nick Margevicius (L),L -113,P 9
+62,Thursday Jun 6,WSN,L,4,5,,28-34,4,7,Lucchesi,Corbin,Yates,3:07,N,19908,0.71,-, @ SD,Patrick Corbin (L),Joey Lucchesi (L),L 104,O 7.5
+61,Wednesday Jun 5,WSN,W-wo,6,4,,28-33,4,6.5,Doolittle,Colome,,3:07,D,28910,0.57,++++, CHW,Anibal Sanchez (R),Dylan Covey (R),W -182,U 10.5
+60,Tuesday Jun 4,WSN,W,9,5,,27-33,4,6.5,Strasburg,Lopez,Doolittle,3:33,N,32513,0.55,+++, CHW,Stephen Strasburg (R),Reynaldo Lopez (R),W -253,O 8.5
+59,Sunday Jun 2,WSN,W,4,1,,26-33,4,7,Scherzer,Gray,Doolittle,3:07,D,22801,0.49,++, @ CIN,Max Scherzer (R),Sonny Gray (R),W -127,U 8.5
+58,Saturday Jun 1,WSN,W,5,2,,25-33,4,8,Rainey,Roark,Doolittle,2:59,D,27748,0.44,+, @ CIN,Erick Fedde (R),Tanner Roark (R),W 118,U 10.5
+57,Friday May 31,WSN,L,3,9,,24-33,4,9,Mahle,Corbin,,2:49,N,24358,0.45,-, @ CIN,Patrick Corbin (L),Tyler Mahle (R),L -119,O 9
+56,Wednesday May 29,WSN,W,14,4,,24-32,4,9.5,Sanchez,Gausman,McGowin,3:11,N,37726,0.44,++, @ ATL,Anibal Sanchez (R),Kevin Gausman (R),W 154,O 10.5
+55,Tuesday May 28,WSN,W,5,4,,23-32,4,9.5,Strasburg,Fried,Doolittle,3:21,N,27573,0.41,+, @ ATL,Stephen Strasburg (R),Max Fried (L),W 110,P 9
+54,Monday May 27,WSN,L,2,3,,22-32,4,9.5,Urena,Barraclough,Romo,3:00,D,21048,0.36,-, MIA,Max Scherzer (R),Jose Urena (R),L -290,U 8
+53,Sunday May 26,WSN,W,9,6,,22-31,4,9,Fedde,Smith,,3:06,D,26365,0.32,+++, MIA,Erick Fedde (R),Caleb Smith (L),W -134,O 9
+52,Saturday May 25,WSN,W,5,0,,21-31,4,10,Corbin,Alcantara,,2:25,D,33163,0.32,++, MIA,Patrick Corbin (L),Sandy Alcantara (R),W -225,U 9
+51,Friday May 24,WSN,W,12,10,,20-31,4,10,Barraclough,Anderson,Doolittle,3:59,N,29173,0.27,+, MIA,Kyle McGowin (R),Pablo Lopez (R),W -146,O 9
+50,Thursday May 23,WSN,L,4,6,,19-31,4,10,Gsellman,Suero,Diaz,2:53,D,29962,0.42,-----, @ NYM,Stephen Strasburg (R),Steven Matz (L),L -182,O 7.5
+49,Wednesday May 22,WSN,L,1,6,,19-30,4,9,Gagnon,Barraclough,,2:59,N,27188,0.47,----, @ NYM,Max Scherzer (R),Jacob deGrom (R),L -120,O 6.5
+48,Tuesday May 21,WSN,L-wo,5,6,,19-29,4,9,Diaz,Rainey,,3:05,N,24631,0.51,---, @ NYM,Erick Fedde (R),Zack Wheeler (R),L 125,O 7.5
+47,Monday May 20,WSN,L,3,5,,19-28,4,9,Gagnon,Corbin,Diaz,3:12,N,22335,0.59,--, @ NYM,Patrick Corbin (L),Wilmer Font (R),L -154,U 8.5
+46,Sunday May 19,WSN,L,5,6,,19-27,4,8,Hendricks,Hellickson,Cishek,3:15,N,23244,0.59,-, CHC,Jeremy Hellickson (R),Kyle Hendricks (R),L 134,O 10
+45,Saturday May 18,WSN,W,5,2,,19-26,4,7,Strasburg,Lester,Doolittle,2:56,N,37582,0.57,+, CHC,Stephen Strasburg (R),Jon Lester (L),W -135,U 8.5
+44,Friday May 17,WSN,L,6,14,,18-26,4,7,Hamels,Scherzer,,4:09,N,33296,0.61,-, CHC,Max Scherzer (R),Cole Hamels (L),L -157,O 8.5
+43,Thursday May 16,WSN,W,7,6,,18-25,4,6,Jennings,Wheeler,Doolittle,3:16,D,28807,0.63,++, NYM,Anibal Sanchez (R),Zack Wheeler (R),W 117,O 8.5
+42,Wednesday May 15,WSN,W,5,1,,17-25,4,7,Corbin,Font,,2:28,N,29673,0.58,+, NYM,Patrick Corbin (L),Wilmer Font (R),W -154,U 8.5
+41,Tuesday May 14,WSN,L,2,6,,16-25,4,8,Syndergaard,Hellickson,,2:38,N,23315,0.62,--, NYM,Jeremy Hellickson (R),Noah Syndergaard (R),L 131,P 8
+40,Sunday May 12,WSN,L,0,6,,16-24,4,7.5,Ryu,Strasburg,,2:46,D,45667,0.61,-, @ LAD,Stephen Strasburg (R),Hyun Jin Ryu (L),L 125,U 7.5
+39,Saturday May 11,WSN,W,5,2,,16-23,4,6.5,Scherzer,Baez,Doolittle,2:58,N,53647,0.6,+, @ LAD,Max Scherzer (R),Walker Buehler (R),W 122,P 7
+38,Friday May 10,WSN,L,0,5,,15-23,4,6.5,Maeda,Sanchez,Urias,2:58,N,43533,0.66,-, @ LAD,Anibal Sanchez (R),Kenta Maeda (R),L 185,U 8.5
+37,Thursday May 9,WSN,W,6,0,,15-22,4,6.5,Corbin,Hill,,3:11,N,42851,0.6,+, @ LAD,Patrick Corbin (L),Rich Hill (L),W 135,U 7
+36,Wednesday May 8,WSN,L,3,7,,14-22,4,7,Woodruff,Hellickson,Hader,3:24,D,30333,0.66,----, @ MIL,Jeremy Hellickson (R),Brandon Woodruff (R),L 176,O 8.5
+35,Tuesday May 7,WSN,L,0,6,,14-21,4,6,Peralta,Strasburg,,3:00,N,31023,0.69,---, @ MIL,Stephen Strasburg (R),Adrian Houser (R),L 106,U 8
+34,Monday May 6,WSN,L,3,5,,14-20,4,5,Claudio,Jennings,Guerra,3:33,N,29299,0.73,--, @ MIL,Max Scherzer (R),Jhoulys Chacin (R),L 101,O 7.5
+33,Sunday May 5,WSN,L,1,7,,14-19,4,5,Eflin,Sanchez,,3:03,D,40497,0.98,-, @ PHI,Anibal Sanchez (R),Zach Eflin (R),L 159,U 8.5
+32,Saturday May 4,WSN,W,10,8,,14-18,4,4,Sipp,Morgan,Doolittle,3:45,N,43319,0.91,+, @ PHI,Patrick Corbin (L),Jake Arrieta (R),W -101,O 8
+31,Friday May 3,WSN,L,2,4,,13-18,4,5,Dominguez,Jennings,Neris,2:42,N,33125,0.98,-, @ PHI,Jeremy Hellickson (R),Jerad Eickhoff (R),L 158,U 9
+30,Thursday May 2,WSN,W,2,1,,13-17,4,4,Strasburg,Hudson,Doolittle,3:00,N,24338,0.73,+, STL,Stephen Strasburg (R),Dakota Hudson (R),W -154,U 8.5
+29,Wednesday May 1,WSN,L,1,5,,17-Dec,4,4.5,Mikolas,Scherzer,,3:02,N,22157,0.81,---, STL,Max Scherzer (R),Miles Mikolas (R),L -139,U 7.5
+28,Tuesday Apr 30,WSN,L,2,3,,16-Dec,4,3.5,Wainwright,Sanchez,Miller,3:09,N,19753,0.86,--, STL,Anibal Sanchez (R),Adam Wainwright (R),L 109,U 9.5
+27,Monday Apr 29,WSN,L,3,6,,15-Dec,4,3.5,Wacha,Corbin,Hicks,3:05,N,17890,0.89,-, STL,Patrick Corbin (L),Michael Wacha (R),L -133,O 8.5
+26,Sunday Apr 28,WSN,W-wo,7,6,11,14-Dec,4,3,Miller,Wisler,,4:03,D,30186,0.88,+, SD,Jeremy Hellickson (R),Joey Lucchesi (L),W 113,O 8.5
+25,Saturday Apr 27,WSN,L,3,8,10,14-Nov,4,3,Perdomo,Suero,,3:45,D,35422,0.93,---, SD,Stephen Strasburg (R),Eric Lauer (L),L -161,O 8.5
+24,Friday Apr 26,WSN,L,3,4,,13-Nov,4,2,Stammen,Doolittle,Yates,3:02,N,27193,0.97,--, SD,Max Scherzer (R),Matt Strahm (L),L -205,P 7
+23,Wednesday Apr 24,WSN,L,5,9,,12-Nov,4,1.5,Marquez,Sanchez,Davis,2:48,D,33135,1.01,-, @ COL,Anibal Sanchez (R),German Marquez (R),L 155,O 10.5
+22,Tuesday Apr 23,WSN,W,6,3,,11-Nov,3,1.5,Corbin,Hoffman,Doolittle,3:14,N,24456,0.96,+, @ COL,Patrick Corbin (L),Jeff Hoffman (R),W -153,U 11
+21,Monday Apr 22,WSN,L,5,7,,11-Oct,4,1.5,Oh,Suero,Davis,3:00,N,20517,1,-, @ COL,Jeremy Hellickson (R),Tyler Anderson (L),L 114,O 11
+20,Sunday Apr 21,WSN,W,5,0,,10-Oct,4,1.5,Strasburg,Richards,,2:45,D,7412,0.96,+, @ MIA,Stephen Strasburg (R),Trevor Richards (R),W -159,U 7
+19,Saturday Apr 20,WSN,L,3,9,,10-Sep,4,2.5,Urena,Scherzer,,3:12,N,9910,1.02,--, @ MIA,Max Scherzer (R),Jose Urena (R),L -229,O 7
+18,Friday Apr 19,WSN,L,2,3,,9-Sep,3,1.5,Smith,Sanchez,Romo,2:52,N,8199,1.08,-, @ MIA,Anibal Sanchez (R),Caleb Smith (L),L -121,U 7.5
+17,Thursday Apr 18,WSN,W,4,2,,8-Sep,3,1.5,Corbin,Pomeranz,Doolittle,2:52,D,26085,0.96,++, SF,Patrick Corbin (L),Drew Pomeranz (L),W -190,U 7.5
+16,Wednesday Apr 17,WSN,W,9,6,,8-Aug,4,2.5,Hellickson,Samardzija,,3:07,N,22611,0.9,+, SF,Jeremy Hellickson (R),Jeff Samardzija (R),W -141,O 8.5
+15,Tuesday Apr 16,WSN,L,3,7,,8-Jul,4,2.5,Rodriguez,Strasburg,,3:16,N,22334,0.93,--, SF,Stephen Strasburg (R),Dereck Rodriguez (R),L -186,O 8
+14,Sunday Apr 14,WSN,L,3,4,,7-Jul,4,2,Vazquez,Suero,,2:47,D,22347,1.01,-, PIT,Max Scherzer (R),Jameson Taillon (R),L -170,U 7.5
+13,Saturday Apr 13,WSN,W,3,2,,6-Jul,4,1.5,Suero,Rodriguez,Doolittle,2:22,D,32103,0.96,+, PIT,Anibal Sanchez (R),Chris Archer (R),W -120,U 9
+12,Friday Apr 12,WSN,L,3,6,10,6-Jun,4,2.5,Burdi,Grace,Vazquez,3:28,N,27084,0.98,-, PIT,Patrick Corbin (L),Trevor Williams (R),L -190,O 8
+11,Wednesday Apr 10,WSN,W,15,1,,5-Jun,4,1,Hellickson,Pivetta,,3:35,N,30805,1.08,++, @ PHI,Jeremy Hellickson (R),Nick Pivetta (R),W 144,O 9
+10,Tuesday Apr 9,WSN,W,10,6,10,5-May,4,2,Doolittle,Alvarez,,3:51,N,38073,1.03,+, @ PHI,Stephen Strasburg (R),Aaron Nola (R),W 131,O 8
+9,Monday Apr 8,WSN,L,3,4,,5-Apr,4,3,Dominguez,Sanchez,Neshek,2:32,N,28212,1.12,-, @ PHI,Anibal Sanchez (R),Vince Velasquez (R),L 127,U 9.5
+8,Sunday Apr 7,WSN,W,12,9,,4-Apr,4,2,Scherzer,Wheeler,,3:42,D,40681,1,+, @ NYM,Max Scherzer (R),Zack Wheeler (R),W -127,O 6
+7,Saturday Apr 6,WSN,L,5,6,,4-Mar,4,2.5,Familia,Sipp,Diaz,3:13,D,35156,1.07,-, @ NYM,Patrick Corbin (L),Steven Matz (L),L -125,O 7
+6,Thursday Apr 4,WSN,W,4,0,,3-Mar,3,1.5,Strasburg,Syndergaard,,3:19,D,44424,1.01,++, @ NYM,Stephen Strasburg (R),Noah Syndergaard (R),W 116,U 6.5
+5,Wednesday Apr 3,WSN,W-wo,9,8,,3-Feb,3,2.5,Doolittle,Robertson,,3:53,D,23050,0.96,+, PHI,Anibal Sanchez (R),Aaron Nola (R),W 121,O 8
+4,Tuesday Apr 2,WSN,L,2,8,,3-Jan,3,3,Eflin,Scherzer,,3:30,N,35920,1.03,-, PHI,Max Scherzer (R),Zach Eflin (R),L -180,O 7
+3,Sunday Mar 31,WSN,W-wo,6,5,,2-Jan,4,2,Doolittle,Wilson,,3:15,D,23430,0.97,+, NYM,Patrick Corbin (L),Zack Wheeler (R),W -171,O 7
+2,Saturday Mar 30,WSN,L,8,11,,0-2,4,2,Wilson,Rosenthal,Diaz,3:50,D,33765,1.02,--, NYM,Stephen Strasburg (R),Noah Syndergaard (R),L -117,O 7.5
+1,Thursday Mar 28,WSN,L,0,2,,0-1,3,1,deGrom,Scherzer,Diaz,2:44,D,42263,1.05,-, NYM,Max Scherzer (R),Jacob deGrom (R),L -122,U 6.5

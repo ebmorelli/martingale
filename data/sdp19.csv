@@ -1,0 +1,163 @@
+game,date,Tm,W/L,R,RA,Inn,W-L,Rank,GB,Win,Loss,Save,Time,D/N,Attendance,cLI,Streak,opp,sp h,sp a,result and moneyline,ou
+162,Sunday Sep 29,SDP,L-wo,0,1,,70-92,5,36,Crichton,Strahm,,2:46,D,45446,0,------, @ ARI,Michel Baez (R),Taijuan Walker (R),L 113,U 9.5
+161,Saturday Sep 28,SDP,L,5,6,,70-91,4,35,Sherfy,Bednar,Ginkel,3:05,N,46477,0,-----, @ ARI,Garrett Richards (R),Robbie Ray (L),L 128,O 9
+160,Friday Sep 27,SDP,L,3,6,,70-90,4,34,Scott,Perdomo,Bradley,3:03,N,32244,0,----, @ ARI,Eric Lauer (L),Taylor Clarke (R),L 120,P 9
+159,Thursday Sep 26,SDP,L,0,1,,70-89,4,33,Kershaw,Lucchesi,Maeda,2:55,D,26285,0,---, LAD,Joey Lucchesi (L),Clayton Kershaw (L),L 177,U 8
+158,Wednesday Sep 25,SDP,L,4,6,,70-88,4,32,Floro,Bednar,Jansen,3:20,N,30552,0,--, LAD,Dinelson Lamet (R),Ross Stripling (R),L 156,O 8.5
+157,Tuesday Sep 24,SDP,L,3,6,,70-87,4,31,Gonsolin,Bolanos,Jansen,2:58,N,29708,0,-, LAD,Ronald Bolanos (R),Rich Hill (L),L 195,P 9
+156,Sunday Sep 22,SDP,W-wo,6,4,10,70-86,4,30,Strahm,LÃ³pez,,3:42,D,31293,0,+, ARI,Garrett Richards (R),Robbie Ray (L),W 109,O 8
+155,Saturday Sep 21,SDP,L,2,4,,69-86,4,30,Clarke,Strahm,Bradley,3:12,N,30191,0,---, ARI,Cal Quantrill (R),Luke Weaver (R),L 122,U 8.5
+154,Friday Sep 20,SDP,L,0,9,,69-85,4,30,Kelly,Lauer,,3:11,N,27023,0,--, ARI,Eric Lauer (L),Merrill Kelly (R),L -102,O 8
+153,Thursday Sep 19,SDP,L,1,5,,69-84,4,29,Peralta,Lucchesi,Hader,3:05,D,31687,0,-, @ MIL,Joey Lucchesi (L),Jordan Lyles (R),L 157,U 8.5
+152,Wednesday Sep 18,SDP,W,2,1,,69-83,4,28.5,Lamet,Houser,Yates,3:01,N,38235,0,+, @ MIL,Dinelson Lamet (R),Adrian Houser (R),W 152,U 8.5
+151,Tuesday Sep 17,SDP,L,1,3,,68-83,4,29.5,Albers,Strahm,Pomeranz,2:37,N,34565,0,------, @ MIL,Chris Paddack (R),Brandon Woodruff (R),L 124,U 8
+150,Monday Sep 16,SDP,L,1,5,,68-82,4,28.5,Davies,Richards,,2:35,N,33215,0,-----, @ MIL,Garrett Richards (R),Zach Davies (R),L 136,U 9
+149,Sunday Sep 15,SDP,L,5,10,,68-81,4,28,Howard,Quantrill,,3:44,D,30699,0,----, @ COL,Cal Quantrill (R),Chi Chi Gonzalez (R),L -105,O 13.5
+148,Saturday Sep 14,SDP,L,10,11,,68-80,4,27,Lambert,Lauer,Tinoco,3:29,N,47370,0,---, @ COL,Eric Lauer (L),Peter Lambert (R),L -103,O 13.5
+147,Friday Sep 13,SDP,L,8,10,,68-79,4,27,Hoffman,Lucchesi,Diaz,3:28,N,31654,0,--, @ COL,Joey Lucchesi (L),Jeff Hoffman (R),L -120,O 12.5
+146,Thursday Sep 12,SDP,L,1,4,,68-78,4,26,Darvish,Lamet,,3:29,D,22501,0,-, CHC,Dinelson Lamet (R),Yu Darvish (R),L 138,U 8
+145,Wednesday Sep 11,SDP,W,4,0,,68-77,4,25,Paddack,Hamels,,3:00,N,24203,0,++, CHC,Chris Paddack (R),Cole Hamels (L),W -111,U 8
+144,Tuesday Sep 10,SDP,W-wo,9,8,10,67-77,4,26,BÃ¡ez,Cishek,,3:50,N,25497,0,+, CHC,Ronald Bolanos (R),Jose Quintana (L),W 158,O 9
+143,Monday Sep 9,SDP,L,2,10,,66-77,4,26,Hendricks,Quantrill,,3:13,N,22420,0,-, CHC,Cal Quantrill (R),Kyle Hendricks (R),L 138,O 8
+142,Sunday Sep 8,SDP,W-wo,2,1,10,66-76,4,25.5,Stammen,Tinoco,,3:15,D,26834,0,++, COL,Eric Lauer (L),Peter Lambert (R),W -140,U 9
+141,Saturday Sep 7,SDP,W,3,0,,65-76,4,25.5,Lucchesi,Hoffman,Yates,2:49,N,29709,0,+, COL,Joey Lucchesi (L),Jeff Hoffman (R),W -159,U 9
+140,Friday Sep 6,SDP,L,2,3,,64-76,4,26.5,Melville,Lamet,Diaz,3:05,N,26073,0,----, COL,Dinelson Lamet (R),Tim Melville (R),L -173,U 8.5
+139,Wednesday Sep 4,SDP,L,1,4,,64-75,4,26.5,Gallen,Stammen,Bradley,2:55,N,18096,0,---, @ ARI,Chris Paddack (R),Zac Gallen (R),L 128,U 8
+138,Tuesday Sep 3,SDP,L,1,2,,64-74,4,25.5,Kelly,Bolanos,Bradley,3:08,N,15402,0,--, @ ARI,Ronald Bolanos (R),Merrill Kelly (R),L 132,U 9.5
+137,Monday Sep 2,SDP,L,7,14,,64-73,4,24.5,Leake,Quantrill,,3:26,D,23477,0.01,-, @ ARI,Cal Quantrill (R),Mike Leake (R),L 114,O 8.5
+136,Sunday Sep 1,SDP,W,8,4,,64-72,4,23.5,Lauer,Samardzija,,3:02,D,38701,0.01,++, @ SF,Eric Lauer (L),Jeff Samardzija (R),W 113,O 8
+135,Saturday Aug 31,SDP,W,4,1,,63-72,4,23.5,Stammen,Watson,Yates,2:58,N,36424,0.01,+, @ SF,Joey Lucchesi (L),Logan Webb (R),W 104,U 8.5
+134,Friday Aug 30,SDP,L,3,8,,62-72,4,24.5,Bumgarner,Lamet,,2:54,N,34293,0.01,-, @ SF,Dinelson Lamet (R),Madison Bumgarner (L),L 119,O 7.5
+133,Thursday Aug 29,SDP,W,5,3,,62-71,4,24.5,Paddack,Rodriguez,Munoz,2:28,N,33135,0.01,+, @ SF,Chris Paddack (R),Dereck Rodriguez (R),W -116,P 8
+132,Wednesday Aug 28,SDP,L,4,6,10,61-71,4,25.5,Jansen,Yates,Sadler,4:05,N,26871,0.01,--, LAD,Trey Wingenter (R),Kenta Maeda (R),L 164,O 9
+131,Tuesday Aug 27,SDP,L,0,9,,61-70,4,24.5,Buehler,Quantrill,,3:02,N,27952,0.02,-, LAD,Cal Quantrill (R),Walker Buehler (R),L 180,O 8
+130,Monday Aug 26,SDP,W,4,3,,61-69,4,23.5,Lauer,May,Yates,2:52,N,26172,0.02,++, LAD,Eric Lauer (L),Dustin May (R),W 131,U 8.5
+129,Sunday Aug 25,SDP,W,3,1,,60-69,4,24.5,Lucchesi,Johnson,Yates,2:54,D,38026,0.01,+, BOS,Joey Lucchesi (L),Brian Johnson (L),W -111,U 9.5
+128,Saturday Aug 24,SDP,L,4,5,,59-69,4,25.5,Barnes,Yates,Workman,3:48,N,42625,0.02,----, BOS,Dinelson Lamet (R),Nathan Eovaldi (R),L 114,P 9
+127,Friday Aug 23,SDP,L,0,11,,59-68,4,24.5,Rodriguez,Paddack,,3:04,N,42904,0.02,---, BOS,Chris Paddack (R),Eduardo Rodriguez (L),L 111,O 8
+126,Wednesday Aug 21,SDP,L,2,4,,59-67,4,24,Castillo,Yardley,Iglesias,2:52,D,13397,0.07,--, @ CIN,Matt Strahm (L),Luis Castillo (R),L 151,U 8.5
+125,Tuesday Aug 20,SDP,L,2,3,,59-66,4,23,Gray,Quantrill,Iglesias,2:56,N,12468,0.1,-, @ CIN,Cal Quantrill (R),Sonny Gray (R),L 143,U 8.5
+124,Monday Aug 19,SDP,W,3,2,,59-65,4,22,Perdomo,Bauer,Yates,3:00,N,10176,0.08,+++, @ CIN,Eric Lauer (L),Trevor Bauer (R),W 126,U 9.5
+123,Sunday Aug 18,SDP,W,3,2,,58-65,4,22.5,Lucchesi,Hughes,Yates,3:21,D,36210,0.07,++, @ PHI,Joey Lucchesi (L),Jason Vargas (L),W 114,U 10.5
+122,Saturday Aug 17,SDP,W,5,3,,57-65,4,23.5,Lamet,Pivetta,Yates,3:16,N,31332,0.05,+, @ PHI,Dinelson Lamet (R),Zach Eflin (R),W -100,U 9.5
+121,Friday Aug 16,SDP,L,4,8,,56-65,4,24.5,Velasquez,Paddack,,3:20,N,26084,0.08,-, @ PHI,Chris Paddack (R),Vince Velasquez (R),L 101,O 9
+120,Wednesday Aug 14,SDP,W,7,2,,56-64,4,24,Quantrill,Beeks,,3:10,D,22886,0.06,+, TB,Cal Quantrill (R),Jalen Beeks (L),W -117,O 8.5
+119,Tuesday Aug 13,SDP,L,5,7,,55-64,4,24,Anderson,BÃ¡ez,Pagan,3:44,N,25261,0.09,---, TB,Eric Lauer (L),Brendan McKay (L),L 110,O 8
+118,Monday Aug 12,SDP,L,4,10,,55-63,4,23,Pruitt,Lucchesi,,3:47,N,21301,0.13,--, TB,Joey Lucchesi (L),Diego Castillo (R),L -115,O 8.5
+117,Sunday Aug 11,SDP,L,3,8,,55-62,4,22.5,Marquez,Stammen,,3:03,D,28930,0.16,-, COL,Dinelson Lamet (R),German Marquez (R),L -122,O 7.5
+116,Saturday Aug 10,SDP,W,8,5,,55-61,4,21.5,Munoz,Diaz,Yates,2:55,N,42564,0.14,+++, COL,Chris Paddack (R),Chi Chi Gonzalez (R),W -222,O 8.5
+115,Friday Aug 9,SDP,W,7,1,,54-61,4,21.5,Quantrill,Freeland,,3:02,N,27882,0.13,++, COL,Cal Quantrill (R),Kyle Freeland (L),W -148,U 9
+114,Thursday Aug 8,SDP,W,9,3,,53-61,4,22.5,Strahm,Gray,,3:14,N,27806,0.1,+, COL,Eric Lauer (L),Jon Gray (R),W 102,O 8
+113,Wednesday Aug 7,SDP,L,2,3,,52-61,4,23,Magill,Munoz,Bass,3:05,D,20142,0.14,-, @ SEA,Joey Lucchesi (L),Yusei Kikuchi (L),L -148,U 9.5
+112,Tuesday Aug 6,SDP,W,9,4,,52-60,4,22,Lamet,LeBlanc,,2:55,N,24020,0.11,+, @ SEA,Dinelson Lamet (R),Matt Wisler (R),W -132,O 9.5
+111,Sunday Aug 4,SDP,L-wo,10,11,,51-60,5,21.5,Baez,Yates,,3:54,D,44110,0.14,--, @ LAD,Chris Paddack (R),Kenta Maeda (R),L 133,O 8.5
+110,Saturday Aug 3,SDP,L,1,4,,51-59,4,20.5,Buehler,Quantrill,,2:18,N,54010,0.19,-, @ LAD,Cal Quantrill (R),Walker Buehler (R),L 224,U 8.5
+109,Friday Aug 2,SDP,W,5,2,,51-58,4,19.5,Lauer,May,Yates,3:06,N,50780,0.14,+, @ LAD,Eric Lauer (L),Dustin May (R),W 145,U 9
+108,Thursday Aug 1,SDP,L,2,8,,50-58,4,20.5,Kershaw,Lucchesi,,3:25,N,53181,0.18,--, @ LAD,Joey Lucchesi (L),Clayton Kershaw (L),L 177,O 8
+107,Tuesday Jul 30,SDP,L,5,8,,50-57,4,19,Castro,Strahm,Armstrong,3:22,D,30286,0.22,-, BAL,Dinelson Lamet (R),Thomas Eshelman (R),L -246,O 9
+106,Monday Jul 29,SDP,W,8,1,,50-56,4,18,Paddack,Hess,,2:50,N,34290,0.19,+, BAL,Chris Paddack (R),David Hess (R),W -285,O 8.5
+105,Sunday Jul 28,SDP,L,6,7,,49-56,4,19,Bumgarner,Perdomo,Smith,3:00,D,35087,0.29,-, SF,Adrian Morejon (L),Madison Bumgarner (L),L -109,O 8
+104,Saturday Jul 27,SDP,W,5,1,,49-55,4,19,Quantrill,Anderson,,3:11,N,41371,0.19,+, SF,Cal Quantrill (R),Shaun Anderson (R),W -130,U 8.5
+103,Friday Jul 26,SDP,L,1,2,11,48-55,5,19,Melancon,Allen,Smith,3:32,N,41951,0.25,--, SF,Joey Lucchesi (L),Jeff Samardzija (R),L -131,U 8
+102,Thursday Jul 25,SDP,L,0,4,,48-54,4,18,deGrom,Lauer,,2:49,D,37822,0.29,-, @ NYM,Eric Lauer (L),Jacob deGrom (R),L 189,U 7.5
+101,Wednesday Jul 24,SDP,W,7,2,,48-53,4,17.5,Strahm,Syndergaard,,3:20,N,32252,0.26,+, @ NYM,Dinelson Lamet (R),Noah Syndergaard (R),W 135,O 8.5
+100,Tuesday Jul 23,SDP,L,2,5,,47-53,4,18.5,Vargas,Paddack,Diaz,3:02,N,33199,0.32,-, @ NYM,Chris Paddack (R),Jason Vargas (L),L -138,U 8.5
+99,Sunday Jul 21,SDP,W,5,1,,47-52,4,18.5,Quantrill,Hendricks,,2:49,D,39954,0.29,+, @ CHC,Adrian Morejon (L),Kyle Hendricks (R),W 164,U 8
+98,Saturday Jul 20,SDP,L,5,6,,46-52,4,18.5,Quintana,Lucchesi,Kimbrel,3:25,D,40314,0.34,---, @ CHC,Joey Lucchesi (L),Jose Quintana (L),L 122,U 12.5
+97,Friday Jul 19,SDP,L,5,6,,46-51,4,17.5,Strop,Stammen,Kimbrel,3:12,D,39526,0.41,--, @ CHC,Eric Lauer (L),Jon Lester (L),L 140,U 12.5
+96,Thursday Jul 18,SDP,L-wo,3,4,,46-50,4,16.5,Romo,Wingenter,,3:30,D,21149,0.45,-, @ MIA,Dinelson Lamet (R),Caleb Smith (L),L -116,U 7.5
+95,Wednesday Jul 17,SDP,W,3,2,,46-49,4,16.5,Paddack,Richards,Yates,2:46,N,7818,0.4,+, @ MIA,Chris Paddack (R),Trevor Richards (R),W -167,U 7.5
+94,Tuesday Jul 16,SDP,L,7,12,,45-49,5,16.5,Yamamoto,Allen,,3:14,N,8151,0.47,----, @ MIA,Logan Allen (L),Jordan Yamamoto (R),L -120,O 8
+93,Sunday Jul 14,SDP,L,1,4,,45-48,4,16,Soroka,Wingenter,Minter,3:15,D,34739,0.55,---, ATL,Cal Quantrill (R),Mike Soroka (R),L 137,U 9
+92,Saturday Jul 13,SDP,L,5,7,10,45-47,4,15,Newcomb,Perdomo,Jackson,4:05,N,43148,0.63,--, ATL,Joey Lucchesi (L),Julio Teheran (R),L -118,O 8.5
+91,Friday Jul 12,SDP,L,3,5,,45-46,4,14,Keuchel,Lamet,Jackson,3:03,N,34692,0.74,-, ATL,Dinelson Lamet (R),Dallas Keuchel (L),L -107,U 9
+90,Sunday Jul 7,SDP,W,5,3,,45-45,3,14,Lucchesi,Stripling,Yates,2:58,D,44171,0.65,+++, @ LAD,Joey Lucchesi (L),Ross Stripling (R),W 141,U 8.5
+89,Saturday Jul 6,SDP,W,3,1,,44-45,4,15,Wingenter,Maeda,Yates,2:52,N,53610,0.57,++, @ LAD,Chris Paddack (R),Kenta Maeda (R),W 155,U 8.5
+88,Friday Jul 5,SDP,W,3,2,,43-45,4,16,Stammen,Garcia,Yates,2:58,N,49790,0.5,+, @ LAD,Eric Lauer (L),Clayton Kershaw (L),W 177,U 8.5
+87,Thursday Jul 4,SDP,L,1,5,,42-45,4,17,Ryu,Lamet,,3:02,N,53801,0.56,-----, @ LAD,Dinelson Lamet (R),Hyun Jin Ryu (L),L 205,U 8.5
+86,Wednesday Jul 3,SDP,L,5,7,,42-44,3,16,Gott,Perdomo,Smith,3:00,N,33905,0.6,----, SF,Cal Quantrill (R),Shaun Anderson (R),L -145,O 9
+85,Tuesday Jul 2,SDP,L,4,10,,42-43,3,15,Beede,Strahm,,3:12,N,24007,0.66,---, SF,Matt Strahm (L),Tyler Beede (R),L -153,O 8.5
+84,Monday Jul 1,SDP,L,2,13,,42-42,3,14,Samardzija,Allen,,3:12,N,25274,0.73,--, SF,Logan Allen (L),Jeff Samardzija (R),L -166,O 8
+83,Sunday Jun 30,SDP,L,3,5,11,42-41,3,13.5,Martinez,Wieck,Leone,4:07,D,32575,0.82,-, STL,Joey Lucchesi (L),Miles Mikolas (R),L -123,P 8
+82,Saturday Jun 29,SDP,W,12,2,,42-40,3,12.5,Paddack,Hudson,,3:05,N,44407,0.8,++++, STL,Chris Paddack (R),Dakota Hudson (R),W -127,O 8
+81,Friday Jun 28,SDP,W,3,1,,41-40,3,13.5,Quantrill,Wacha,Yates,2:49,N,33329,0.73,+++, STL,Eric Lauer (L),Michael Wacha (R),W -133,U 9
+80,Wednesday Jun 26,SDP,W,10,5,,40-40,3,14,Strahm,Bundy,Stammen,3:18,D,13408,0.6,++, @ BAL,Matt Strahm (L),Dylan Bundy (R),W -124,O 10
+79,Tuesday Jun 25,SDP,W,8,3,,39-40,3,15,Allen,Yacabonis,,2:47,N,21644,0.53,+, @ BAL,Logan Allen (L),Jimmy Yacabonis (R),W -186,P 11
+78,Sunday Jun 23,SDP,L-wo,10,11,11,38-40,4,15.5,Liriano,Wisler,,4:58,D,25294,0.65,---, @ PIT,Joey Lucchesi (L),Steven Brault (L),L -141,O 9.5
+77,Saturday Jun 22,SDP,L,3,6,,38-39,3,14.5,Crick,Stammen,Vazquez,3:18,D,26929,0.69,--, @ PIT,Chris Paddack (R),Chris Archer (R),L -113,P 9
+76,Friday Jun 21,SDP,L,1,2,,38-38,3,13.5,Musgrove,Lauer,Vazquez,2:35,N,33437,0.76,-, @ PIT,Eric Lauer (L),Joe Musgrove (R),L -101,U 9.5
+75,Wednesday Jun 19,SDP,W,8,7,,38-37,3,12,Reyes,Jeffress,Stammen,3:24,D,28144,0.72,++++, MIL,Matt Strahm (L),Zach Davies (R),W 106,O 8.5
+74,Tuesday Jun 18,SDP,W,4,1,,37-37,4,12,Allen,Woodruff,Yates,2:43,N,29112,0.66,+++, MIL,Logan Allen (L),Brandon Woodruff (R),W 154,U 7.5
+73,Monday Jun 17,SDP,W,2,0,,36-37,4,12,Lucchesi,Chacin,Yates,2:55,N,24914,0.59,++, MIL,Joey Lucchesi (L),Jhoulys Chacin (R),W -116,U 8
+72,Sunday Jun 16,SDP,W,14,13,,35-37,4,13,Reyes,Davis,Yates,3:31,D,47526,0.55,+, @ COL,Nick Margevicius (L),Peter Lambert (R),W 134,O 12.5
+71,Saturday Jun 15,SDP,L,8,14,,34-37,4,13,Marquez,Lauer,,3:39,N,46133,0.6,-, @ COL,Eric Lauer (L),German Marquez (R),L 162,O 12
+70,Friday Jun 14,SDP,W,16,12,12,34-36,4,13,Stammen,Diaz,,5:04,N,38077,0.54,+, @ COL,Cal Quantrill (R),Jeff Hoffman (R),W -104,O 12
+69,Thursday Jun 13,SDP,L,6,9,,33-36,4,13,Gray,Strahm,,3:26,N,35504,0.62,-----, @ COL,Matt Strahm (L),Jon Gray (R),L 136,O 11.5
+68,Wednesday Jun 12,SDP,L,2,4,,33-35,4,12,Anderson,Lucchesi,Smith,2:52,N,31188,0.62,----, @ SF,Joey Lucchesi (L),Shaun Anderson (R),L -135,U 7.5
+67,Tuesday Jun 11,SDP,L,5,6,,33-34,4,11.5,Melancon,Wingenter,Smith,3:01,N,28535,0.66,---, @ SF,Chris Paddack (R),Tyler Beede (R),L -152,O 8
+66,Sunday Jun 9,SDP,L,2,5,,33-33,4,12,Strasburg,Stammen,,2:56,D,30518,0.77,--, WAS,Luis Perdomo (R),Stephen Strasburg (R),L 141,U 8
+65,Saturday Jun 8,SDP,L,1,4,,33-32,3,11,Scherzer,Lauer,Doolittle,2:39,N,30319,0.85,-, WAS,Eric Lauer (L),Max Scherzer (R),L 168,U 7.5
+64,Friday Jun 7,SDP,W-wo,5,4,,33-31,3,10,Warren,Doolittle,,2:46,N,21645,0.78,++, WAS,Nick Margevicius (L),Erick Fedde (R),W 104,P 9
+63,Thursday Jun 6,SDP,W,5,4,,32-31,3,11,Lucchesi,Corbin,Yates,3:07,N,19908,0.73,+, WAS,Joey Lucchesi (L),Patrick Corbin (L),W -112,O 7.5
+62,Wednesday Jun 5,SDP,L,5,7,,31-31,3,11.5,Nicasio,Stammen,Neris,3:30,D,23004,0.8,--, PHI,Cal Quantrill (R),Jake Arrieta (R),L -101,O 8.5
+61,Tuesday Jun 4,SDP,L,6,9,,31-30,3,11.5,Eickhoff,Paddack,Neris,3:03,N,25821,0.87,-, PHI,Chris Paddack (R),Jerad Eickhoff (R),L -148,O 8
+60,Monday Jun 3,SDP,W,8,2,,31-29,3,10.5,Lauer,Nola,,2:54,N,21654,0.83,+, PHI,Eric Lauer (L),Aaron Nola (R),W 128,O 7.5
+59,Sunday Jun 2,SDP,L,3,9,,30-29,3,10.5,Richards,Strahm,,3:04,D,31650,0.87,--, MIA,Matt Strahm (L),Trevor Richards (R),L -181,O 8
+58,Saturday Jun 1,SDP,L,3,9,,30-28,3,9.5,Urena,Margevicius,,2:43,N,26858,0.95,-, MIA,Nick Margevicius (L),Jose Urena (R),L -155,O 8
+57,Friday May 31,SDP,W,5,2,,30-27,2,8.5,Lucchesi,Smith,Yates,2:59,N,25019,0.93,+, MIA,Joey Lucchesi (L),Caleb Smith (L),W -169,P 7
+56,Wednesday May 29,SDP,L,0,7,,29-27,2,8,Holder,Paddack,,2:39,D,40918,1.02,-, @ NYY,Chris Paddack (R),James Paxton (L),L 126,U 7.5
+55,Tuesday May 28,SDP,W,5,4,,29-26,2,7,Lauer,Tanaka,Yates,3:15,N,37028,0.91,+, @ NYY,Eric Lauer (L),Masahiro Tanaka (R),W 171,P 9
+54,Monday May 27,SDP,L,2,5,,28-26,2,8,Hale,Strahm,Chapman,2:40,D,46254,0.97,--, @ NYY,Matt Strahm (L),Chad Green (R),L 114,U 9.5
+53,Sunday May 26,SDP,L,1,10,,28-25,2,7,Stroman,Erlin,,3:08,D,24462,1.03,-, @ TOR,Robbie Erlin (L),Marcus Stroman (R),L 106,O 8.5
+52,Saturday May 25,SDP,W,19,4,,28-24,2,6,Quantrill,Jackson,,3:04,D,24212,1.03,+++++, @ TOR,Cal Quantrill (R),Edwin Jackson (R),W -108,O 10
+51,Friday May 24,SDP,W,6,3,,27-24,2,6,Wisler,Hudson,Stammen,2:49,N,19480,0.94,++++, @ TOR,Joey Lucchesi (L),Trent Thornton (R),W -119,O 8.5
+50,Wednesday May 22,SDP,W,5,2,,26-24,2,6,Lauer,Kelly,Yates,2:57,D,18715,1.01,+++, ARI,Eric Lauer (L),Merrill Kelly (R),W -131,U 7.5
+49,Tuesday May 21,SDP,W,3,2,,25-24,2,7,Strahm,Greinke,Yates,2:21,N,19969,0.99,++, ARI,Matt Strahm (L),Zack Greinke (R),W -103,U 7
+48,Monday May 20,SDP,W,2,1,,24-24,3,7,Paddack,Weaver,Yates,2:40,N,17578,0.9,+, ARI,Chris Paddack (R),Luke Weaver (R),W -139,U 6.5
+47,Sunday May 19,SDP,L,4,6,,23-24,3,7.5,Musgrove,Quantrill,Vazquez,2:56,D,29863,0.92,---, PIT,Cal Quantrill (R),Joe Musgrove (R),L -110,O 8
+46,Saturday May 18,SDP,L,2,7,,23-23,3,6.5,Brault,Margevicius,,3:24,N,39856,0.97,--, PIT,Nick Margevicius (L),Montana DuRapau (R),L -154,O 8
+45,Friday May 17,SDP,L,3,5,,23-22,3,6.5,Lyles,Lucchesi,,3:00,N,28913,1.05,-, PIT,Joey Lucchesi (L),Jordan Lyles (R),L -161,O 7
+44,Thursday May 16,SDP,W,4,3,,23-21,3,5.5,Warren,Rodriguez,Yates,3:05,N,20877,0.99,+, PIT,Eric Lauer (L),Trevor Williams (R),W -136,U 7.5
+43,Wednesday May 15,SDP,L,0,2,,22-21,3,6,Maeda,Strahm,Jansen,3:06,N,41671,1.26,---, @ LAD,Matt Strahm (L),Kenta Maeda (R),L 145,U 7.5
+42,Tuesday May 14,SDP,L,3,6,,22-20,3,5,Kershaw,Paddack,Jansen,2:32,N,46460,1.34,--, @ LAD,Chris Paddack (R),Clayton Kershaw (L),L 141,O 7
+41,Sunday May 12,SDP,L,7,10,,22-19,2,4,Senzatela,Margevicius,,3:06,D,40234,1.21,-, @ COL,Nick Margevicius (L),Antonio Senzatela (R),L -103,O 12
+40,Saturday May 11,SDP,W,4,3,,22-18,2,3,Stammen,Davis,Yates,3:05,N,37118,1.15,+, @ COL,Joey Lucchesi (L),Jon Gray (R),W 122,U 10.5
+39,Friday May 10,SDP,L,2,12,,21-18,3,4,Marquez,Lauer,,3:10,N,27594,1.16,-, @ COL,Eric Lauer (L),German Marquez (R),L 160,O 10
+38,Wednesday May 8,SDP,W,3,2,,21-17,3,3.5,Reyes,Bashlor,Yates,2:44,D,21952,1.07,+, NYM,Matt Strahm (L),Wilmer Font (R),W -129,U 8
+37,Tuesday May 7,SDP,L,6,7,,20-17,3,3.5,Lugo,Warren,Diaz,3:38,N,23129,1.13,-, NYM,Cal Quantrill (R),Noah Syndergaard (R),L 143,O 7.5
+36,Monday May 6,SDP,W,4,0,,20-16,3,2.5,Paddack,deGrom,Stammen,2:14,N,20176,1.06,++, NYM,Chris Paddack (R),Jacob deGrom (R),W 104,U 6
+35,Sunday May 5,SDP,W-wo,8,5,,19-16,3,2.5,Warren,Jansen,,2:58,D,44473,1.21,+, LAD,Nick Margevicius (L),Kenta Maeda (R),W 110,O 8
+34,Saturday May 4,SDP,L,6,7,,18-16,3,3.5,Stripling,Yates,Jansen,4:12,N,44558,1.32,--, LAD,Joey Lucchesi (L),Rich Hill (L),L -113,O 7.5
+33,Friday May 3,SDP,L,3,4,,18-15,3,2.5,Alexander,Yates,Jansen,3:13,N,44425,1.33,-, LAD,Eric Lauer (L),Clayton Kershaw (L),L 140,U 7.5
+32,Thursday May 2,SDP,W,11,2,,18-14,3,1.5,Strahm,Foltynewicz,,2:53,D,23746,1.09,+, @ ATL,Matt Strahm (L),Mike Foltynewicz (R),W 133,O 8.5
+31,Wednesday May 1,SDP,L,1,5,,17-14,3,2,Fried,Quantrill,,2:39,N,20394,1.15,-, @ ATL,Cal Quantrill (R),Max Fried (L),L 127,U 9
+30,Tuesday Apr 30,SDP,W,4,3,,17-13,2,2,Paddack,Teheran,Yates,2:42,N,18626,1.15,+, @ ATL,Chris Paddack (R),Julio Teheran (R),W 100,U 8.5
+29,Monday Apr 29,SDP,L,1,3,,16-13,2,2,Soroka,Margevicius,Webb,2:33,N,19353,1.13,--, @ ATL,Nick Margevicius (L),Mike Soroka (R),L 147,U 9
+28,Sunday Apr 28,SDP,L-wo,6,7,11,16-12,2,2,Miller,Wisler,,4:03,D,30186,1.16,-, @ WAS,Joey Lucchesi (L),Jeremy Hellickson (R),L -122,O 8.5
+27,Saturday Apr 27,SDP,W,8,3,10,16-11,2,1,Perdomo,Suero,,3:45,D,35422,1.11,+++++, @ WAS,Eric Lauer (L),Stephen Strasburg (R),W 148,O 8.5
+26,Friday Apr 26,SDP,W,4,3,,15-11,3,1,Stammen,Doolittle,Yates,3:02,N,27193,1.1,++++, @ WAS,Matt Strahm (L),Max Scherzer (R),W 188,P 7
+25,Wednesday Apr 24,SDP,W,1,0,,14-11,2,0.5,Paddack,Hernandez,Yates,2:05,D,23417,1.06,+++, SEA,Chris Paddack (R),Felix Hernandez (R),W -166,U 8.5
+24,Tuesday Apr 23,SDP,W,6,3,,13-11,2,1.5,Margevicius,Swanson,Yates,2:54,N,25154,1,++, SEA,Nick Margevicius (L),Erik Swanson (R),W -130,O 8
+23,Sunday Apr 21,SDP,W,4,3,,11-Dec,2,2.5,Lucchesi,Mahle,Yates,2:50,D,25932,0.99,+, CIN,Joey Lucchesi (L),Tyler Mahle (R),W -163,U 7.5
+22,Saturday Apr 20,SDP,L,2,4,,11-Nov,3,2.5,Castillo,Lauer,Iglesias,3:04,N,37137,1.03,------, CIN,Eric Lauer (L),Luis Castillo (R),L -105,U 7
+21,Friday Apr 19,SDP,L,2,3,11,10-Nov,2,2.5,Hughes,Stammen,Lorenzen,3:04,N,33442,1.07,-----, CIN,Matt Strahm (L),Anthony DeSclafani (R),L -127,U 8
+20,Thursday Apr 18,SDP,L,1,4,,9-Nov,2,1.5,Roark,Paddack,Iglesias,2:45,N,26577,1.12,----, CIN,Chris Paddack (R),Tanner Roark (R),L -167,U 7
+19,Tuesday Apr 16,SDP,L,2,8,,8-Nov,1,Tied,Gray,Margevicius,,3:01,N,24963,1.29,---, COL,Nick Margevicius (L),Jon Gray (R),L -108,O 7.5
+18,Monday Apr 15,SDP,L,2,5,,7-Nov,1,up 1.0,Senzatela,Lucchesi,Davis,2:38,N,24867,1.3,--, COL,Joey Lucchesi (L),Antonio Senzatela (R),L -163,U 7.5
+17,Sunday Apr 14,SDP,L,4,8,,6-Nov,1,up 2.0,Greinke,Lauer,,2:49,D,25489,1.4,-, @ ARI,Eric Lauer (L),Zack Greinke (R),L 129,O 8.5
+16,Saturday Apr 13,SDP,W,5,4,,5-Nov,1,up 3.0,Stammen,Andriese,Yates,3:41,N,27256,1.36,++++, @ ARI,Matt Strahm (L),Merrill Kelly (R),W -101,P 9
+15,Friday Apr 12,SDP,W,2,1,,5-Oct,1,up 2.0,Reyes,Weaver,Yates,2:38,N,22209,1.35,+++, @ ARI,Chris Paddack (R),Luke Weaver (R),W -119,U 8
+14,Thursday Apr 11,SDP,W,7,6,,5-Sep,1,up 1.0,Stammen,Bradley,Wingenter,3:13,N,15449,1.32,++, @ ARI,Pedro Avila (R),Zack Godley (R),W 109,O 9
+13,Wednesday Apr 10,SDP,W,3,1,,5-Aug,1,Tied,Margevicius,Rodriguez,Yates,2:37,D,28584,1.16,+, @ SF,Nick Margevicius (L),Dereck Rodriguez (R),W -100,U 8
+12,Tuesday Apr 9,SDP,L,2,7,,5-Jul,2,1,Holland,Lucchesi,,2:39,N,28506,1.2,-, @ SF,Joey Lucchesi (L),Derek Holland (L),L -129,O 7.5
+11,Monday Apr 8,SDP,W,6,5,,4-Jul,2,1,Lauer,Moronta,Yates,2:55,N,28625,1.12,+, @ SF,Eric Lauer (L),Madison Bumgarner (L),W 123,O 7
+10,Sunday Apr 7,SDP,L,1,4,,4-Jun,2,2,Wainwright,Strahm,Hicks,3:08,D,44340,1.05,-, @ STL,Matt Strahm (L),Adam Wainwright (R),L 109,U 9
+9,Saturday Apr 6,SDP,W,6,4,,3-Jun,2,1,Wisler,Miller,Yates,3:37,D,44492,1.03,+++, @ STL,Chris Paddack (R),Michael Wacha (R),W 110,O 7.5
+8,Friday Apr 5,SDP,W,5,3,,3-May,2,1,Stock,Reyes,Yates,2:54,D,46615,0.97,++, @ STL,Nick Margevicius (L),Jack Flaherty (R),W 164,O 7.5
+7,Wednesday Apr 3,SDP,W,4,1,,3-Apr,2,1,Lucchesi,Ray,,2:59,D,19376,1.07,+, ARI,Joey Lucchesi (L),Robbie Ray (L),W -143,U 7
+6,Tuesday Apr 2,SDP,L,5,8,,3-Mar,2,1,Greinke,Lauer,Holland,3:21,N,22504,1.14,--, ARI,Eric Lauer (L),Zack Greinke (R),L -117,O 7.5
+5,Monday Apr 1,SDP,L,3,10,,2-Mar,1,Tied,Kelly,Strahm,Duplantier,3:04,N,18683,1.14,-, ARI,Matt Strahm (L),Merrill Kelly (R),L -173,O 7.5
+4,Sunday Mar 31,SDP,W,3,1,,1-Mar,1,Tied,Warren,Vincent,Yates,2:47,D,38444,1.1,+, SF,Chris Paddack (R),Jeff Samardzija (R),W -177,U 7.5
+3,Saturday Mar 30,SDP,L,2,3,,1-Feb,1,Tied,Rodriguez,Margevicius,Smith,3:10,N,41899,1.14,-, SF,Nick Margevicius (L),Dereck Rodriguez (R),L -131,U 7.5
+2,Friday Mar 29,SDP,W,4,1,,Feb-00,1,Tied,Lucchesi,Holland,Yates,3:07,N,33769,1.11,++, SF,Joey Lucchesi (L),Derek Holland (L),W -156,U 7.5
+1,Thursday Mar 28,SDP,W,2,0,,Jan-00,1,Tied,Lauer,Bumgarner,Yates,2:18,D,44655,1.1,+, SF,Eric Lauer (L),Madison Bumgarner (L),W -130,U 7.5
