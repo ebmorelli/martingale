@@ -169,9 +169,23 @@ def plot_results(bet_data, team_data):
     ax2.scatter(team_data['Wins'], team_data['Earnings'], color = team_data['Name'].apply(league_color))
     
 # grid search
-def grid_search(min_wins, params):
+def grid_search_by_team(min_wins, params):
+    param_gs = pd.DataFrame({'name': [], 'wins': [], 'base_bet': [], 'start_balance': [], 'refill': [], 'earnings': []})
+    for i in params['base_bet']: # base_bet
+        for j in params['start_balance']: # starting_balance
+            for k in params['refill']: # refill
+                bet_data, team_data = full_run(ds_names(), i, j, k)
+                team_data_f = team_data[team_data['Wins'] >= min_wins]
+                for index, team in team_data_f.iterrows():
+                    param_gs = param_gs.append({'name': team['Name'], 'wins': team['Wins'], 'base_bet': i, 'start_balance': j, 'refill': k,
+                                                'earnings': team['Earnings']}, ignore_index = True)
+    print('grid search complete')
+    return param_gs
+
+# grid search
+def grid_search_by_szn(min_wins, params):
     param_gs = pd.DataFrame({'base_bet': [], 'start_balance': [], 'refill': [], 'earn_avg': [], 'earn_sd': [],
-                             'pct_pos': [], 'test_stat': []})
+                                'pct_pos': [], 'test_stat': []})
     for i in params['base_bet']: # base_bet
         for j in params['start_balance']: # starting_balance
             for k in params['refill']: # refill
