@@ -5,7 +5,8 @@ Looking for profitable strategies
 Just a side project for fun
 
 **Files**
-* *martingale_betting_0.ipynb*: first wave of analysis. contains useful functions for further analysis.
+* *martingale.py*: useful functions for analysis
+* *martingale_0.ipynb*: first wave of analysis
 
 **Data Sources**
 * https://www.covers.com/
