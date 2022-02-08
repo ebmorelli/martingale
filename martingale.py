@@ -47,6 +47,44 @@ def process_data(fname):
     df.sort_values(by=['game'], inplace=True)
     return df
 
+def szn_baseline(ds_name, base_bet, start_balance, r):
+    df = process_data(ds_name)
+    curr_bet = base_bet
+    balance = start_balance
+    earnings = 0
+    bet_hist = []
+    payout_hist = []
+    balance_hist = []
+    earnings_hist = []
+    
+    for index, row in df.iterrows():
+        payout = 0
+        if curr_bet > balance: #  losing streak has overwhelmed balance
+            earnings -= (r * base_bet - balance)
+            balance = r * base_bet
+        bet_hist.append(curr_bet)
+        if row['result'] == 'W': # team wins
+            if (row['line'] > 0): # underdog
+                payout = round(0.01 * row['line'] * curr_bet, 2)
+            else: # favorite
+                payout = round(-100 / row['line'] * curr_bet, 2)
+            curr_bet = base_bet # reset
+        else: # team loses
+            payout = curr_bet * -1
+        balance += payout
+        earnings += payout
+        payout_hist.append(payout)
+        balance_hist.append(balance)
+        earnings_hist.append(earnings)
+    
+    df['bet'] = bet_hist
+    df['payout'] = payout_hist
+    df['balance'] = balance_hist
+    df['earnings'] = earnings_hist
+    
+    return df
+    
+
 def sim_szn(ds_name, base_bet, start_balance, r):
     """
     Carries out a season of Martingale betting using the data for an individual team-season
@@ -75,7 +113,7 @@ def sim_szn(ds_name, base_bet, start_balance, r):
             curr_bet = base_bet # reset current bet
             if curr_bet > balance: # refill account
                 earnings -= ((2**r - 1) * base_bet - balance)
-                balance = (2**r - 1) * base_bet * 7
+                balance = (2**r - 1) * base_bet
         bet_hist.append(curr_bet)
         if row['result'] == 'W': # team wins
             if (row['line'] > 0): # underdog
