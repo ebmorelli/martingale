@@ -203,7 +203,6 @@ def plot_results(bet_data, team_data):
                        Line2D([0], [0], marker='o', color='w', label='AL19', markerfacecolor='darkorange', markersize=7),
                        Line2D([0], [0], marker='o', color='w', label='NL19', markerfacecolor='darkviolet', markersize=7)]
     ax2.legend(handles=legend_elements)
-    ax2.set_ylim(-600, 600)
     ax2.scatter(team_data['Wins'], team_data['Earnings'], color = team_data['Name'].apply(league_color))
     
 # grid search
